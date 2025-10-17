@@ -40,7 +40,7 @@ jobs:
       - name: Upload build folder
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./build  # 👈 esta es la carpeta que se va a publicar
+          path: ./dist  # 👈 esta es la carpeta que se va a publicar
 
       - name: Deploy to GitHub Pages
         id: deployment
