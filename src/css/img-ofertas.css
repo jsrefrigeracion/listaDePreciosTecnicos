@@ -1,0 +1,45 @@
+.ofertas-container {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  overflow-y: hidden;
+}
+
+.ofertas-container-none {
+  display: none;
+}
+
+.ofertas-img-container {
+  width: 100%;
+  height: auto;
+}
+
+.ofertas-close {
+  all: unset;
+  cursor: pointer;
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  background-color: var(--color-primary);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+}
+.ofertas-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media (width >= 768px) {
+  .ofertas-img-container {
+    width: 500px;
+    height: auto;
+    padding: 4rem;
+  }
+}

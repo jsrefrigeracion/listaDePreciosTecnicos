@@ -1,0 +1,27 @@
+:root {
+  --font-family: system-ui;
+  --color-primary: #2d497c;
+  --color-secondary: #2860c9;
+  --color-gray: #d9d9d9;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: var(--font-family);
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+@media (width >= 768px) {
+  body {
+    width: 100%;
+  }
+}

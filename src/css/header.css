@@ -1,0 +1,52 @@
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+  gap: 1rem;
+  width: 100%;
+  padding: 1rem 2rem;
+  color: var(--color-primary);
+}
+
+header div {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+header div h1 {
+  align-self: end;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 0.9;
+  width: 70%;
+}
+
+header div p {
+  font-size: 1.3rem;
+  font-weight: 500;
+  width: 70%;
+  align-self: end;
+}
+
+@media (width >= 768px) {
+  header {
+    justify-content: space-between;
+    width: 1000px;
+  }
+  header div {
+    text-align: end;
+  }
+  header div h1 {
+    font-size: 3rem;
+    width: 100%;
+  }
+  header div p {
+    font-size: 1.5rem;
+    width: 100%;
+  }
+  header img {
+    width: 150px;
+  }
+}
