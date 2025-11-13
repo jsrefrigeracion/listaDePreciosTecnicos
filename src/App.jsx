@@ -5,10 +5,13 @@ import { Button } from "./components/Button";
 import { SectionFilter } from "./components/SectionFilter";
 import { SectionOfertas } from "./components/SectionOfertas";
 import imgOfertas from "./static/img-ofertas";
+import { SectionFotosOfertas } from "./components/sectionFotosOfertas";
 function App() {
   const [sucursal, setSucursal] = useState("");
   const [rubro, setRubro] = useState("Sin rubro");
   const [numRandom, setNumRandom] = useState(0);
+  const [mostrarOfertas, setMostrarOfertas] = useState(false);
+  const [text, setText] = useState("Ver ofertas");
   useEffect(() => {
     setNumRandom(Math.floor(Math.random() * imgOfertas.length));
   }, []);
@@ -32,6 +35,18 @@ function App() {
             <option value="LAVASECA">LAVA - SECA</option>
             <option value="CALEFACCION">CALEFACCION</option>
           </select>
+          <a
+            className="button"
+            onClick={(e) => {
+              e.preventDefault();
+              setMostrarOfertas(!mostrarOfertas);
+              text === "Ver ofertas"
+                ? setText("Ver catalogo")
+                : setText("Ver ofertas");
+            }}
+          >
+            {text}
+          </a>
           <select name="" id="" onChange={(e) => setSucursal(e.target.value)}>
             <option value="">Seleccionar sucursal...</option>
             <option value="San Nicolas">San Nicolás</option>
@@ -40,7 +55,8 @@ function App() {
           <Button sucursal={sucursal} />
         </div>
 
-        <SectionFilter rubro={rubro} />
+        {!mostrarOfertas && <SectionFilter rubro={rubro} />}
+        {mostrarOfertas && <SectionFotosOfertas fotosOfertas={imgOfertas} />}
       </main>
     </>
   );

@@ -1,12 +1,12 @@
 // Archivo generado automáticamente
-// Fecha de generación: 30/10/2025, 08:54:11
+// Fecha de generación: 13/11/2025, 08:58:04
 // Incluye: Aires acondicionados,  Heladeras y Lavadoras y Secadoras.
 
 const productosAires = [
   {
     "Codigo": 1366,
     "Nombre": "ADAPTADOR CANILLA LATA GAS UNIVERSAL",
-    "PrecioTecnico": 3862.5,
+    "PrecioTecnico": 3945.27,
     "Rubro": "OTROS"
   },
   {
@@ -48,7 +48,7 @@ const productosAires = [
   {
     "Codigo": 159,
     "Nombre": "AISLANTE GOMA 7/8",
-    "PrecioTecnico": 4424.65,
+    "PrecioTecnico": 4519.47,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -108,7 +108,7 @@ const productosAires = [
   {
     "Codigo": 4308,
     "Nombre": "CAÑO COBRE 7/8 POR METRO",
-    "PrecioTecnico": 16647.01,
+    "PrecioTecnico": 17624.1,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -306,19 +306,19 @@ const productosAires = [
   {
     "Codigo": 505,
     "Nombre": "ROTATIVO 4500 F R 410 TOSHIBA- PANASONIC PA 170-200- 216 GMCC",
-    "PrecioTecnico": 259191.97,
+    "PrecioTecnico": 264746.09,
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
     "Codigo": 5440,
     "Nombre": "ROTATIVO 6000F R410 -GMCC-PA236G2C-4MTL",
-    "PrecioTecnico": 319670.1,
+    "PrecioTecnico": 326520.17,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 5441,
     "Nombre": "ROTATIVO 6000F R410 -PANASONIC 5VS270EAA21",
-    "PrecioTecnico": 319670.1,
+    "PrecioTecnico": 326520.17,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -348,7 +348,7 @@ const productosAires = [
   {
     "Codigo": 1315,
     "Nombre": "TUERCA BRONCE 1\"(CAÑO-3/4)",
-    "PrecioTecnico": 7509.11,
+    "PrecioTecnico": 7670.01,
     "Rubro": "OTROS"
   },
   {
@@ -366,7 +366,7 @@ const productosAires = [
   {
     "Codigo": 65,
     "Nombre": "TUERCA BRONCE 7/16 (CAÑO-1/4)",
-    "PrecioTecnico": 1365.3,
+    "PrecioTecnico": 1394.54,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -378,49 +378,49 @@ const productosAires = [
   {
     "Codigo": 6758,
     "Nombre": "TUERCA BRONCE P/CAÑO 5/16",
-    "PrecioTecnico": 2047.94,
+    "PrecioTecnico": 2091.82,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 629,
     "Nombre": "VALVULA DE CARGA PARA SOLDAR 1/4",
-    "PrecioTecnico": 1637.76,
+    "PrecioTecnico": 1858.91,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1627,
     "Nombre": "VALVULA DE SERVICIO SPLIT 1/2 RECTA R22",
-    "PrecioTecnico": 12649.02,
+    "PrecioTecnico": 12920.07,
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
     "Codigo": 630,
     "Nombre": "VALVULA DE SERVICIO SPLIT 1/2 RECTA R410",
-    "PrecioTecnico": 12197.27,
+    "PrecioTecnico": 12458.64,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1155,
     "Nombre": "VALVULA DE SERVICIO SPLIT 1/4 CURVA",
-    "PrecioTecnico": 9486.77,
+    "PrecioTecnico": 9690.06,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1156,
     "Nombre": "VALVULA DE SERVICIO SPLIT 3/8 CURVA R22",
-    "PrecioTecnico": 10570.97,
+    "PrecioTecnico": 10797.49,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1628,
     "Nombre": "VALVULA DE SERVICIO SPLIT 5/8 CURVA R22",
-    "PrecioTecnico": 18160.38,
+    "PrecioTecnico": 18549.53,
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
     "Codigo": 1306,
     "Nombre": "VALVULA DE SERVICIO SPLIT 5/8 RECTA R22",
-    "PrecioTecnico": 18160.38,
+    "PrecioTecnico": 18549.53,
     "Rubro": "OTROS"
   },
   {
@@ -438,7 +438,7 @@ const productosAires = [
   {
     "Codigo": 1058,
     "Nombre": "VARILLA PLATA ECONOMICA",
-    "PrecioTecnico": 1557.69,
+    "PrecioTecnico": 2317.79,
     "Rubro": "REFRIGERACION"
   }
 ];
@@ -488,7 +488,7 @@ const productosHeladeras = [
   {
     "Codigo": 1251,
     "Nombre": "BURLETE FREZEER DE POZO DOBLE BALON 1450X750 GRIS",
-    "PrecioTecnico": 12612.85,
+    "PrecioTecnico": 13360.27,
     "Rubro": "OTROS"
   },
   {
@@ -578,7 +578,7 @@ const productosHeladeras = [
   {
     "Codigo": 1067,
     "Nombre": "COMBISTATO ELITECH  ETC-100+ 2 SONDAS 220V",
-    "PrecioTecnico": 54718.31,
+    "PrecioTecnico": 55890.83,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -614,7 +614,7 @@ const productosHeladeras = [
   {
     "Codigo": 227,
     "Nombre": "FILTRO 10 G HELADERA C/ CHICOTE",
-    "PrecioTecnico": 2410.88,
+    "PrecioTecnico": 2736.44,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -626,49 +626,49 @@ const productosHeladeras = [
   {
     "Codigo": 835,
     "Nombre": "FILTRO 20 G HELADERA C/ CHICOTE",
-    "PrecioTecnico": 3053.9,
+    "PrecioTecnico": 3465.92,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 627,
     "Nombre": "FORZADOR TANGENCIAL 18CM 25W 2000-2400RPM",
-    "PrecioTecnico": 23933.01,
+    "PrecioTecnico": 24445.87,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1694,
     "Nombre": "FORZADOR TANGENCIAL 24CM",
-    "PrecioTecnico": 25248.01,
+    "PrecioTecnico": 25789.04,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 250,
     "Nombre": "FORZADOR TIPO ELCO MOD10- 40W",
-    "PrecioTecnico": 18952.36,
+    "PrecioTecnico": 19358.47,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1230,
     "Nombre": "FORZADOR TIPO ELCO MOD16",
-    "PrecioTecnico": 26363.9,
+    "PrecioTecnico": 26928.83,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1599,
     "Nombre": "FORZADOR TIPO ELCO MOD25-100W",
-    "PrecioTecnico": 31621.41,
+    "PrecioTecnico": 32299.03,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 400,
     "Nombre": "FORZADOR TIPO ELCO MOD34-130W",
-    "PrecioTecnico": 27239.15,
+    "PrecioTecnico": 27822.85,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 251,
     "Nombre": "FORZADOR TIPO ELCO MOD5-30W",
-    "PrecioTecnico": 14434.85,
+    "PrecioTecnico": 14744.17,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -686,13 +686,13 @@ const productosHeladeras = [
   {
     "Codigo": 363,
     "Nombre": "MOTOR HELADERA FAMILIAR HUAYI 1/3 R134 HY",
-    "PrecioTecnico": 95464.98,
+    "PrecioTecnico": 97186.68,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1307,
     "Nombre": "MOTOR HELADERA FAMILIAR HUAYI 1/3+ 134",
-    "PrecioTecnico": 97273.6,
+    "PrecioTecnico": 99027.92,
     "Rubro": "OTROS"
   },
   {
@@ -704,7 +704,7 @@ const productosHeladeras = [
   {
     "Codigo": 366,
     "Nombre": "MOTOR HELADERA FAMILIAR HUAYI 1/4+ R134-",
-    "PrecioTecnico": 82914.77,
+    "PrecioTecnico": 84410.14,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -734,19 +734,19 @@ const productosHeladeras = [
   {
     "Codigo": 256,
     "Nombre": "SENSOR HELADERA NO FROST 10 K",
-    "PrecioTecnico": 5624.82,
+    "PrecioTecnico": 5745.35,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 516,
     "Nombre": "SENSOR HELADERA NO FROST 2,7 K",
-    "PrecioTecnico": 5624.82,
+    "PrecioTecnico": 5745.35,
     "Rubro": "HELADERA"
   },
   {
     "Codigo": 517,
     "Nombre": "SENSOR HELADERA NO FROST 5 K",
-    "PrecioTecnico": 5624.82,
+    "PrecioTecnico": 5745.35,
     "Rubro": "OTROS"
   },
   {
@@ -764,7 +764,7 @@ const productosHeladeras = [
   {
     "Codigo": 4241,
     "Nombre": "TERMICO UNIVERSAL HELADERA 1/3HP TIPO TAMBOR",
-    "PrecioTecnico": 2951.44,
+    "PrecioTecnico": 3014.68,
     "Rubro": "HELADERA"
   },
   {
@@ -806,13 +806,13 @@ const productosHeladeras = [
   {
     "Codigo": 1073,
     "Nombre": "TERMOSTATO AMBIENTE TIPO PRODIGY BULVO LARGO +30-30",
-    "PrecioTecnico": 9755.24,
+    "PrecioTecnico": 14385.4,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1650,
     "Nombre": "TIMER HELADERA NO FROST UNIVERSAL PROGRAMABLE (RW-ADT0624)",
-    "PrecioTecnico": 14975.54,
+    "PrecioTecnico": 15296.45,
     "Rubro": "HELADERA"
   }
 ];
@@ -832,31 +832,31 @@ const productosLavaSeca = [
   {
     "Codigo": 971,
     "Nombre": "AGITADOR LAVARROPA CODINI SILENT",
-    "PrecioTecnico": 25600.23,
+    "PrecioTecnico": 25685.56,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 999,
     "Nombre": "AGITADOR LAVARROPA COLUMBIA VIOLETA CON RETEN Y BUJE",
-    "PrecioTecnico": 59108.34,
+    "PrecioTecnico": 59305.37,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1140,
     "Nombre": "AGITADOR LAVARROPA ELAC 9/10 SOLA",
-    "PrecioTecnico": 26564.18,
+    "PrecioTecnico": 27980.57,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1566,
     "Nombre": "AGITADOR LAVARROPA ELECTROLUX ELAC 10",
-    "PrecioTecnico": 26564.18,
+    "PrecioTecnico": 27980.57,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1138,
     "Nombre": "AGITADOR LAVARROPA GAFA 7500 ELECTROLUX FUZZI",
-    "PrecioTecnico": 24417.96,
+    "PrecioTecnico": 25722.94,
     "Rubro": "OTROS"
   },
   {
@@ -880,31 +880,31 @@ const productosLavaSeca = [
   {
     "Codigo": 990,
     "Nombre": "AGITADOR LAVARROPA SAMSUNG CON RODILLOS ORIGINAL",
-    "PrecioTecnico": 36989.81,
+    "PrecioTecnico": 37113.11,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 33,
     "Nombre": "AMORTIGUADOR DREAN BLUE 120N  JUEGO x2",
-    "PrecioTecnico": 16164.31,
+    "PrecioTecnico": 17803.08,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 4206,
     "Nombre": "AMORTIGUADOR DREAN BLUE 80 N X2",
-    "PrecioTecnico": 14872.39,
+    "PrecioTecnico": 15191.09,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 4210,
     "Nombre": "AMORTIGUADOR DREAN GOLD (GRIS) 12.8/ 10.8 X UNIDAD",
-    "PrecioTecnico": 30255.95,
+    "PrecioTecnico": 30356.8,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 4209,
     "Nombre": "AMORTIGUADOR DREAN GOLD X UNIDAD",
-    "PrecioTecnico": 25829.86,
+    "PrecioTecnico": 25915.96,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -922,7 +922,7 @@ const productosLavaSeca = [
   {
     "Codigo": 4325,
     "Nombre": "BLOCAPUERTA DR 166/169/BLUE IMPORTADO",
-    "PrecioTecnico": 20108.25,
+    "PrecioTecnico": 22918.14,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -934,19 +934,19 @@ const productosLavaSeca = [
   {
     "Codigo": 801,
     "Nombre": "BLOCAPUERTA LAVARROPA DREAN FAMILY",
-    "PrecioTecnico": 7662.04,
+    "PrecioTecnico": 7687.58,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 4331,
     "Nombre": "BLOCAPUERTA LAVARROPA DREAN GOLD/CANDY CTS 41/62 ROLD",
-    "PrecioTecnico": 73339.62,
+    "PrecioTecnico": 19700,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 670,
     "Nombre": "BLOCAPUERTA LAVARROPA DREAN NEX Apert. Instantanea 4 CONTACTOS",
-    "PrecioTecnico": 23547.05,
+    "PrecioTecnico": 26527.47,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -964,13 +964,13 @@ const productosLavaSeca = [
   {
     "Codigo": 4324,
     "Nombre": "BLOCAPUERTA LS GE 09 MABE ORIGINAL",
-    "PrecioTecnico": 36797.13,
+    "PrecioTecnico": 41939.09,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 4328,
     "Nombre": "BLOCAPUERTA LVM08E12 MABE ORIGINAL",
-    "PrecioTecnico": 24285.33,
+    "PrecioTecnico": 27678.91,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -982,13 +982,13 @@ const productosLavaSeca = [
   {
     "Codigo": 1290,
     "Nombre": "BOMBA DESAGOTE LAVARROPA EMICOL",
-    "PrecioTecnico": 13369.66,
+    "PrecioTecnico": 13656.15,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 63,
     "Nombre": "BOMBA DESAGOTE LAVARROPA MEDIO GIRO 3 TRABAS",
-    "PrecioTecnico": 17609.2,
+    "PrecioTecnico": 20069.88,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1018,43 +1018,43 @@ const productosLavaSeca = [
   {
     "Codigo": 110,
     "Nombre": "CAJA LAVARROPA ELECTROLUX/PHILCO(PH708) MEDIO CHAPON",
-    "PrecioTecnico": 61029.17,
+    "PrecioTecnico": 62336.95,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 111,
     "Nombre": "CAJA LAVARROPA LG -13KG",
-    "PrecioTecnico": 75697.78,
+    "PrecioTecnico": 77319.88,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1133,
     "Nombre": "CAJA LAVARROPA LG 7.5 KG",
-    "PrecioTecnico": 68816.16,
+    "PrecioTecnico": 70290.8,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 117,
     "Nombre": "CAJA LAVARROPA PHILCO 6 AGUJEROS  RETEN CHICO",
-    "PrecioTecnico": 67472.68,
+    "PrecioTecnico": 68918.53,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 116,
     "Nombre": "CAJA LAVARROPA PHILCO 6 AGUJEROS RETEN GRANDE COMPATIBLE CON ATMA",
-    "PrecioTecnico": 67472.68,
+    "PrecioTecnico": 68918.53,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 236,
     "Nombre": "CAJA LAVARROPA PHILCO 8 AGUJEROS RETEN CHICO",
-    "PrecioTecnico": 67472.68,
+    "PrecioTecnico": 68918.53,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 115,
     "Nombre": "CAJA LAVARROPA PHILCO 8 AGUJEROS RETEN GRANDE",
-    "PrecioTecnico": 67472.68,
+    "PrecioTecnico": 68918.53,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1078,13 +1078,13 @@ const productosLavaSeca = [
   {
     "Codigo": 3,
     "Nombre": "CORREA 1173 H8 BLUE/AURORA/KENT/MAR",
-    "PrecioTecnico": 11867.07,
+    "PrecioTecnico": 13525.35,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 169,
     "Nombre": "CORREA 1184 J5 OPTIBELT DREAN BLUE",
-    "PrecioTecnico": 14855.29,
+    "PrecioTecnico": 15299.37,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1102,13 +1102,13 @@ const productosLavaSeca = [
   {
     "Codigo": 175,
     "Nombre": "CORREA 1317 DREAN FAMILY",
-    "PrecioTecnico": 14496.86,
+    "PrecioTecnico": 15299.37,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 4389,
     "Nombre": "CORREA DREAN CONCEPT 5 VIAS FINA M/V",
-    "PrecioTecnico": 3748.29,
+    "PrecioTecnico": 4117.56,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1126,37 +1126,37 @@ const productosLavaSeca = [
   {
     "Codigo": 186,
     "Nombre": "CORREA PLASTICA 7 VIAS ORIG DREAN CONCEPT VIEJO",
-    "PrecioTecnico": 2948.45,
+    "PrecioTecnico": 7106.61,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 179,
     "Nombre": "CORREA V M 19",
-    "PrecioTecnico": 5601.1,
+    "PrecioTecnico": 6383.78,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 180,
     "Nombre": "CORREA V M 20 GAFA / SANYO/ DAEWO",
-    "PrecioTecnico": 5601.1,
+    "PrecioTecnico": 6383.78,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 181,
     "Nombre": "CORREA V M 21 GAFA / SANYO/ DEAWO",
-    "PrecioTecnico": 5339.17,
+    "PrecioTecnico": 6085.26,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 182,
     "Nombre": "CORREA V M 22 GAFA/ SANYO/ DAEWO",
-    "PrecioTecnico": 5339.17,
+    "PrecioTecnico": 6085.26,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 928,
     "Nombre": "EJE LAVARROPA BOSH ZENITH 03/03 CORONITA",
-    "PrecioTecnico": 35184.58,
+    "PrecioTecnico": 36469.74,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1186,13 +1186,13 @@ const productosLavaSeca = [
   {
     "Codigo": 1109,
     "Nombre": "EJE LAVARROPA ELECTROLUX TURCO EWT600/800/1000",
-    "PrecioTecnico": 28986.97,
+    "PrecioTecnico": 33037.55,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 344,
     "Nombre": "EJE LAVARROPA PATRICK MABE GEN 8 KG PHILCO  PH 70 06-07 PUNTA RECTA",
-    "PrecioTecnico": 70408.02,
+    "PrecioTecnico": 85472.48,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1210,19 +1210,19 @@ const productosLavaSeca = [
   {
     "Codigo": 5617,
     "Nombre": "EJE LAVARROPAS LONGVIE L4613 4616 5616 FINO",
-    "PrecioTecnico": 36194.85,
+    "PrecioTecnico": 41252.65,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 5619,
     "Nombre": "EJE LAVARROPAS LONGVIE LS817 05/05 GRUESO",
-    "PrecioTecnico": 35068.01,
+    "PrecioTecnico": 39968.35,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 676,
     "Nombre": "ELECTROVALVULA 1 VIA 180¦ (NEGRA) CON FICHA PLANCHA",
-    "PrecioTecnico": 6617.97,
+    "PrecioTecnico": 6759.8,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1234,13 +1234,13 @@ const productosLavaSeca = [
   {
     "Codigo": 675,
     "Nombre": "ELECTROVALVULA 1 VÝA 90¦ (EMICOL NEGRO) FICHA PLANCHA",
-    "PrecioTecnico": 8412.13,
+    "PrecioTecnico": 8592.39,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1257,
     "Nombre": "ELECTROVALVULA 2 VIAS 180¦ CE CON FICHA PLANCHA CONCEPT",
-    "PrecioTecnico": 15792.9,
+    "PrecioTecnico": 16131.33,
     "Rubro": "OTROS"
   },
   {
@@ -1252,13 +1252,13 @@ const productosLavaSeca = [
   {
     "Codigo": 211,
     "Nombre": "ELECTROVALVULA 2 VIAS 180° CON PIN DREAN \"EMICOL\"",
-    "PrecioTecnico": 15792.9,
+    "PrecioTecnico": 16131.33,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 774,
     "Nombre": "ELECTROVALVULA 2 VIAS 90¦ DREAN FAMILY CE /EMICOL CON FICHA PLANCHA",
-    "PrecioTecnico": 15792.9,
+    "PrecioTecnico": 16131.33,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -1270,7 +1270,7 @@ const productosLavaSeca = [
   {
     "Codigo": 1354,
     "Nombre": "FUELLE LAVARROPA DREAN 166 ECO",
-    "PrecioTecnico": 12846.5,
+    "PrecioTecnico": 12860.34,
     "Rubro": "OTROS"
   },
   {
@@ -1282,7 +1282,7 @@ const productosLavaSeca = [
   {
     "Codigo": 262,
     "Nombre": "FUELLE LAVARROPA DREAN BLUE C/ PICO NACIONAL",
-    "PrecioTecnico": 13560.52,
+    "PrecioTecnico": 13577.34,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1300,19 +1300,19 @@ const productosLavaSeca = [
   {
     "Codigo": 5595,
     "Nombre": "FUELLE LAVARROPA ELECTROLUX TURCO 600",
-    "PrecioTecnico": 37127.41,
+    "PrecioTecnico": 42315.52,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 42,
     "Nombre": "FUELLE LAVARROPA PATRICK MABE 8 KILOS",
-    "PrecioTecnico": 34601.73,
+    "PrecioTecnico": 39436.92,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 5596,
     "Nombre": "FUELLE LAVARROPA SAMSUNG 1702/8650/1904/OTROS",
-    "PrecioTecnico": 30774.37,
+    "PrecioTecnico": 37089.74,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1360,7 +1360,7 @@ const productosLavaSeca = [
   {
     "Codigo": 7785,
     "Nombre": "MANGUERA CARGA 1,5M GRIS ITALIANA",
-    "PrecioTecnico": 7402.17,
+    "PrecioTecnico": 8436.53,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1444,31 +1444,31 @@ const productosLavaSeca = [
   {
     "Codigo": 485,
     "Nombre": "RETEN LAVARROPA DREAN BLUE 6204 MOD 6.06, 6.08 7.8 25X47X8",
-    "PrecioTecnico": 2389.68,
+    "PrecioTecnico": 2397.64,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 486,
     "Nombre": "RETEN LAVARROPA DREAN BLUE 6205 MOD 8.12 Y NEXT 30X52X8.5",
-    "PrecioTecnico": 2583.96,
+    "PrecioTecnico": 2945.04,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 678,
     "Nombre": "RETEN LAVARROPA DREAN CONCEPT 5.05 MOD NUEVO /TECH 25X48.8X57.6X14",
-    "PrecioTecnico": 4332.5,
+    "PrecioTecnico": 4937.92,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 667,
     "Nombre": "RETEN LAVARROPA SAMSUNG 35X 65,5X10/12 WFK",
-    "PrecioTecnico": 3807.94,
+    "PrecioTecnico": 4340.05,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 815,
     "Nombre": "RETEN LAVARROPA WHIRLPOOL 680 (30X63X15/17)",
-    "PrecioTecnico": 3030.81,
+    "PrecioTecnico": 3454.33,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1486,7 +1486,7 @@ const productosLavaSeca = [
   {
     "Codigo": 374,
     "Nombre": "RODAMIENTO SKF 6003",
-    "PrecioTecnico": 6972.09,
+    "PrecioTecnico": 7121.48,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1498,55 +1498,55 @@ const productosLavaSeca = [
   {
     "Codigo": 578,
     "Nombre": "RODAMIENTO SKF 6006 WHIRLPOOL WII ESLABON DE LUJO",
-    "PrecioTecnico": 10391.08,
+    "PrecioTecnico": 10613.75,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 488,
     "Nombre": "RODAMIENTO SKF 6200",
-    "PrecioTecnico": 7676,
+    "PrecioTecnico": 7840.49,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 489,
     "Nombre": "RODAMIENTO SKF 6201",
-    "PrecioTecnico": 4994.43,
+    "PrecioTecnico": 5101.45,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 490,
     "Nombre": "RODAMIENTO SKF 6202",
-    "PrecioTecnico": 5085.55,
+    "PrecioTecnico": 5101.45,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 491,
     "Nombre": "RODAMIENTO SKF 6203",
-    "PrecioTecnico": 6402.24,
+    "PrecioTecnico": 6539.44,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 492,
     "Nombre": "RODAMIENTO SKF 6204",
-    "PrecioTecnico": 8782.14,
+    "PrecioTecnico": 8970.33,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 493,
     "Nombre": "RODAMIENTO SKF 6205",
-    "PrecioTecnico": 10692.76,
+    "PrecioTecnico": 10921.89,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 494,
     "Nombre": "RODAMIENTO SKF 6206",
-    "PrecioTecnico": 14178.8,
+    "PrecioTecnico": 14482.62,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1292,
     "Nombre": "RODAMIENTO SKF 6207",
-    "PrecioTecnico": 20949.77,
+    "PrecioTecnico": 21398.69,
     "Rubro": "OTROS"
   }
 ];
@@ -1578,7 +1578,7 @@ const productosCalefaccion = [
   {
     "Codigo": 1105,
     "Nombre": "ANODO TERMOTANQUE LONGVIE ORIGINAL 450MM",
-    "PrecioTecnico": 13075.94,
+    "PrecioTecnico": 15982.42,
     "Rubro": "ELECTRICIDAD"
   },
   {
@@ -1596,31 +1596,31 @@ const productosCalefaccion = [
   {
     "Codigo": 1100,
     "Nombre": "CAPACITOR ALTA TENSION MICROONDA 0.90 2100V",
-    "PrecioTecnico": 17887.87,
+    "PrecioTecnico": 18271.2,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1096,
     "Nombre": "CAPACITOR ALTA TENSION MICROONDAS 0.95 UF 2100V",
-    "PrecioTecnico": 18550.39,
+    "PrecioTecnico": 18947.91,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1099,
     "Nombre": "CAPACITOR ALTA TENSION MICROONDAS 1.00 UF 2100 V",
-    "PrecioTecnico": 18550.39,
+    "PrecioTecnico": 18947.91,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1098,
     "Nombre": "CAPACITOR ALTA TENSION MICROONDAS 1.05 UF 2100 V",
-    "PrecioTecnico": 18550.39,
+    "PrecioTecnico": 18947.91,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1097,
     "Nombre": "CAPACITOR ALTA TENSION MICROONDAS 1.10 UF 2100V",
-    "PrecioTecnico": 18550.39,
+    "PrecioTecnico": 18947.91,
     "Rubro": "OTROS"
   },
   {
@@ -1638,37 +1638,37 @@ const productosCalefaccion = [
   {
     "Codigo": 265,
     "Nombre": "FUSIBLE ALTO  VOLTAJE MICROONDAS 0.85/0,9A",
-    "PrecioTecnico": 2933.17,
+    "PrecioTecnico": 7078.1,
     "Rubro": "HORNO ELECTRICO"
   },
   {
     "Codigo": 280,
     "Nombre": "JUNTA GOMA TERMOTANQUES JAMES 5 AGUJEROS ORIGINAL",
-    "PrecioTecnico": 13938.02,
+    "PrecioTecnico": 13984.48,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 798,
     "Nombre": "LIMITADOR TERMOTANQUE LONGVIE",
-    "PrecioTecnico": 12088.7,
+    "PrecioTecnico": 14719.44,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 354,
     "Nombre": "MOTOR GIRA PLATO 21 V",
-    "PrecioTecnico": 8023.87,
+    "PrecioTecnico": 9145.11,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 353,
     "Nombre": "MOTOR GIRA PLATO 220 V  TYJ50-8A7",
-    "PrecioTecnico": 8723.29,
+    "PrecioTecnico": 9942.27,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1425,
     "Nombre": "PLACA MICA PARA MICROONDAS 10X10",
-    "PrecioTecnico": 3338.78,
+    "PrecioTecnico": 3805.34,
     "Rubro": "COCINA "
   },
   {
@@ -1722,19 +1722,19 @@ const productosCalefaccion = [
   {
     "Codigo": 510,
     "Nombre": "SELECTOR HORNO ELECTRICO 2 POSICIONES 3 PATAS",
-    "PrecioTecnico": 4351.93,
+    "PrecioTecnico": 4960.06,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 567,
     "Nombre": "TERMOSTATO HORNO ELECTRICO 1/2 GIRO",
-    "PrecioTecnico": 5479.18,
+    "PrecioTecnico": 9534.93,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 581,
     "Nombre": "TERMOSTATO HORNO ELECTRICOS 3/4 GIRO",
-    "PrecioTecnico": 5479.18,
+    "PrecioTecnico": 9534.93,
     "Rubro": "ELECTRICIDAD"
   },
   {
@@ -1758,7 +1758,7 @@ const productosCalefaccion = [
   {
     "Codigo": 588,
     "Nombre": "TIMER HORNO ELECTRICO 60 MINUTOS",
-    "PrecioTecnico": 12336.95,
+    "PrecioTecnico": 14060.89,
     "Rubro": "HORNO ELECTRICO"
   },
   {
@@ -1800,13 +1800,13 @@ const productosCalefaccion = [
   {
     "Codigo": 5587,
     "Nombre": "ZOCALO CERAMICO PARA ESTUFA CUARZO",
-    "PrecioTecnico": 699.42,
+    "PrecioTecnico": 797.15,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1453,
     "Nombre": "ZOCALO CERAMICO PARA ESTUFA HALOGENA",
-    "PrecioTecnico": 874.27,
+    "PrecioTecnico": 996.44,
     "Rubro": "REFRIGERACION"
   }
 ];

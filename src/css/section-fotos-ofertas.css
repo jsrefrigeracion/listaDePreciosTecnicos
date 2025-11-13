@@ -1,0 +1,28 @@
+.fotos-ofertas-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  gap: 1rem;
+}
+
+.fotos-ofertas {
+  width: 90%;
+  height: 90%;
+  object-fit: cover;
+}
+
+@media (width >= 768px) {
+  .fotos-ofertas-container {
+    margin-top: 2rem;
+    width: 1000px;
+    gap: 2rem;
+  }
+  .fotos-ofertas {
+    width: 40%;
+    height: 40%;
+  }
+}
