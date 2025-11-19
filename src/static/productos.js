@@ -1,5 +1,5 @@
 // Archivo generado automáticamente
-// Fecha de generación: 17/11/2025, 12:05:12
+// Fecha de generación: 19/11/2025, 05:05:47
 // Incluye: Aires acondicionados,  Heladeras y Lavadoras y Secadoras.
 
 const productosAires = [
@@ -114,7 +114,7 @@ const productosAires = [
   {
     "Codigo": 157,
     "Nombre": "CINTA PVC 20 M SIN ADHESIVO FIJAMON",
-    "PrecioTecnico": 2064.86,
+    "PrecioTecnico": 2138.6,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -162,13 +162,13 @@ const productosAires = [
   {
     "Codigo": 290,
     "Nombre": "KIT TORNILLOS INSTALACION SPLIT 10MM",
-    "PrecioTecnico": 2107,
+    "PrecioTecnico": 2809.33,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 346,
     "Nombre": "KIT TORNILLOS INSTALACION SPLIT 12MM",
-    "PrecioTecnico": 2984.92,
+    "PrecioTecnico": 3979.89,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -248,6 +248,36 @@ const productosAires = [
     "Nombre": "PATA GOMA SPLIT PISO JGOS X 4 C/ TUERCA GRANDE",
     "PrecioTecnico": 3726.62,
     "Rubro": "ACONDICIONADOR DE AIRE"
+  },
+  {
+    "Codigo": 7934,
+    "Nombre": "PLAQUETA AIRE UNIVERSAL PISO TECHO QD-U11A EVERTECH",
+    "PrecioTecnico": 55360,
+    "Rubro": "REFRIGERACION"
+  },
+  {
+    "Codigo": 7933,
+    "Nombre": "PLAQUETA AIRE UNIVERSAL QD-U08C EVERTECH RELE",
+    "PrecioTecnico": 33280,
+    "Rubro": "REFRIGERACION"
+  },
+  {
+    "Codigo": 445,
+    "Nombre": "PLAQUETA AIRE UNIVERSAL QDU-08PGC+ (VERDE)",
+    "PrecioTecnico": 41228.31,
+    "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 1358,
+    "Nombre": "PLAQUETA UNIVERSAL AIRE INVERTER QD80C",
+    "PrecioTecnico": 227158.23,
+    "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 1357,
+    "Nombre": "PLAQUETA UNIVERSAL AIRE INVERTER QD81B",
+    "PrecioTecnico": 271734.97,
+    "Rubro": "OTROS"
   },
   {
     "Codigo": 1675,
@@ -1444,31 +1474,31 @@ const productosLavaSeca = [
   {
     "Codigo": 485,
     "Nombre": "RETEN LAVARROPA DREAN BLUE 6204 MOD 6.06, 6.08 7.8 25X47X8",
-    "PrecioTecnico": 2450.92,
+    "PrecioTecnico": 3449.45,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 486,
     "Nombre": "RETEN LAVARROPA DREAN BLUE 6205 MOD 8.12 Y NEXT 30X52X8.5",
-    "PrecioTecnico": 3010.48,
+    "PrecioTecnico": 3233.48,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 678,
     "Nombre": "RETEN LAVARROPA DREAN CONCEPT 5.05 MOD NUEVO /TECH 25X48.8X57.6X14",
-    "PrecioTecnico": 5047.65,
+    "PrecioTecnico": 5421.55,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 667,
     "Nombre": "RETEN LAVARROPA SAMSUNG 35X 65,5X10/12 WFK",
-    "PrecioTecnico": 4436.5,
+    "PrecioTecnico": 4765.13,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 815,
     "Nombre": "RETEN LAVARROPA WHIRLPOOL 680 (30X63X15/17)",
-    "PrecioTecnico": 3531.09,
+    "PrecioTecnico": 3792.65,
     "Rubro": "LAVARROPAS"
   },
   {
