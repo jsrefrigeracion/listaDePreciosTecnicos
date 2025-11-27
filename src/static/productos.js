@@ -1,5 +1,5 @@
 // Archivo generado automáticamente
-// Fecha de generación: 19/11/2025, 05:05:47
+// Fecha de generación: 27/11/2025, 03:40:19
 // Incluye: Aires acondicionados,  Heladeras y Lavadoras y Secadoras.
 
 const productosAires = [
@@ -120,13 +120,13 @@ const productosAires = [
   {
     "Codigo": 4127,
     "Nombre": "CINTA PVC 20M CON ADHESIVO (GRIS) TACSA",
-    "PrecioTecnico": 10352,
+    "PrecioTecnico": 10823.3,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 4130,
     "Nombre": "CINTA PVC 20M SIN ADHESIVO (BLANCA)TACSA",
-    "PrecioTecnico": 6289.12,
+    "PrecioTecnico": 6575.45,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -174,49 +174,49 @@ const productosAires = [
   {
     "Codigo": 7881,
     "Nombre": "LATA GAS ANTON AN22 PLUS 780G",
-    "PrecioTecnico": 25640.35,
+    "PrecioTecnico": 24114.32,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 7885,
     "Nombre": "LATA GAS ANTON AN41 (R410A) 680G",
-    "PrecioTecnico": 31478.22,
+    "PrecioTecnico": 27769.49,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 7882,
     "Nombre": "LATA GAS ANTON AN44 (R404A) 650G",
-    "PrecioTecnico": 19622.45,
+    "PrecioTecnico": 18619.3,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 7880,
     "Nombre": "LATA GAS ANTON R134A 900G",
-    "PrecioTecnico": 24534.5,
+    "PrecioTecnico": 25316.36,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 7884,
     "Nombre": "LATA GAS ANTON R32 650G",
-    "PrecioTecnico": 29575.13,
+    "PrecioTecnico": 28211.05,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 6712,
     "Nombre": "LATA MAP P/SOLDAR X 400G ICELONG",
-    "PrecioTecnico": 16716.38,
+    "PrecioTecnico": 13124.27,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 4138,
     "Nombre": "LATA R141B X 900G TORRINGTON AGENTE DE LIMPIEZA",
-    "PrecioTecnico": 57555.56,
+    "PrecioTecnico": 52335.86,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1373,
     "Nombre": "LATA YH12 ANTON 425G",
-    "PrecioTecnico": 23254.79,
+    "PrecioTecnico": 22182.23,
     "Rubro": "OTROS"
   },
   {
@@ -250,36 +250,6 @@ const productosAires = [
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
-    "Codigo": 7934,
-    "Nombre": "PLAQUETA AIRE UNIVERSAL PISO TECHO QD-U11A EVERTECH",
-    "PrecioTecnico": 55360,
-    "Rubro": "REFRIGERACION"
-  },
-  {
-    "Codigo": 7933,
-    "Nombre": "PLAQUETA AIRE UNIVERSAL QD-U08C EVERTECH RELE",
-    "PrecioTecnico": 33280,
-    "Rubro": "REFRIGERACION"
-  },
-  {
-    "Codigo": 445,
-    "Nombre": "PLAQUETA AIRE UNIVERSAL QDU-08PGC+ (VERDE)",
-    "PrecioTecnico": 41228.31,
-    "Rubro": "OTROS"
-  },
-  {
-    "Codigo": 1358,
-    "Nombre": "PLAQUETA UNIVERSAL AIRE INVERTER QD80C",
-    "PrecioTecnico": 227158.23,
-    "Rubro": "OTROS"
-  },
-  {
-    "Codigo": 1357,
-    "Nombre": "PLAQUETA UNIVERSAL AIRE INVERTER QD81B",
-    "PrecioTecnico": 271734.97,
-    "Rubro": "OTROS"
-  },
-  {
     "Codigo": 1675,
     "Nombre": "RESORTE DOBLA CAÑO 1/2 EVERTECH",
     "PrecioTecnico": 3578.77,
@@ -288,7 +258,7 @@ const productosAires = [
   {
     "Codigo": 4089,
     "Nombre": "RESORTE DOBLA CAÑO 1/4 EVERTECH",
-    "PrecioTecnico": 2953.33,
+    "PrecioTecnico": 2932.94,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -330,25 +300,25 @@ const productosAires = [
   {
     "Codigo": 5439,
     "Nombre": "ROTATIVO 2250F R22 -PH140X2C1-8FTC1 TOSHIBA",
-    "PrecioTecnico": 160410.17,
+    "PrecioTecnico": 152925.63,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 505,
     "Nombre": "ROTATIVO 4500 F R 410 TOSHIBA- PANASONIC PA 170-200- 216 GMCC",
-    "PrecioTecnico": 274788.18,
+    "PrecioTecnico": 261799.54,
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
     "Codigo": 5440,
     "Nombre": "ROTATIVO 6000F R410 -GMCC-PA236G2C-4MTL",
-    "PrecioTecnico": 338905.42,
+    "PrecioTecnico": 300631.64,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 5441,
     "Nombre": "ROTATIVO 6000F R410 -PANASONIC 5VS270EAA21",
-    "PrecioTecnico": 338905.42,
+    "PrecioTecnico": 300631.64,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -644,19 +614,19 @@ const productosHeladeras = [
   {
     "Codigo": 227,
     "Nombre": "FILTRO 10 G HELADERA C/ CHICOTE",
-    "PrecioTecnico": 2840.23,
+    "PrecioTecnico": 2505.25,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 232,
     "Nombre": "FILTRO 15 G HELADERA C/ CHICOTE",
-    "PrecioTecnico": 3347.74,
+    "PrecioTecnico": 3062.28,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 835,
     "Nombre": "FILTRO 20 G HELADERA C/ CHICOTE",
-    "PrecioTecnico": 3597.39,
+    "PrecioTecnico": 3290.64,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -782,7 +752,7 @@ const productosHeladeras = [
   {
     "Codigo": 1954,
     "Nombre": "SENSOR HELADERA NO FROST ORIGINAL 5K",
-    "PrecioTecnico": 9081.9,
+    "PrecioTecnico": 29979.81,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -856,61 +826,61 @@ const productosLavaSeca = [
   {
     "Codigo": 4283,
     "Nombre": "AGITADOR LAVARROPA CODINI EVOLUTION AQUA 323",
-    "PrecioTecnico": 4913.76,
+    "PrecioTecnico": 4783.16,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 971,
     "Nombre": "AGITADOR LAVARROPA CODINI SILENT",
-    "PrecioTecnico": 28201.27,
+    "PrecioTecnico": 27451.73,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 999,
     "Nombre": "AGITADOR LAVARROPA COLUMBIA VIOLETA CON RETEN Y BUJE",
-    "PrecioTecnico": 65113.88,
+    "PrecioTecnico": 63383.28,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1140,
     "Nombre": "AGITADOR LAVARROPA ELAC 9/10 SOLA",
-    "PrecioTecnico": 30721.05,
+    "PrecioTecnico": 29904.55,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1566,
     "Nombre": "AGITADOR LAVARROPA ELECTROLUX ELAC 10",
-    "PrecioTecnico": 30721.05,
+    "PrecioTecnico": 29904.55,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1138,
     "Nombre": "AGITADOR LAVARROPA GAFA 7500 ELECTROLUX FUZZI",
-    "PrecioTecnico": 28242.31,
+    "PrecioTecnico": 27491.68,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 975,
     "Nombre": "AGITADOR LAVARROPA PHILCO PH08/10/12 GRIS AZUL 37,5",
-    "PrecioTecnico": 15645.5,
+    "PrecioTecnico": 20306.23,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 27,
     "Nombre": "AGITADOR LAVARROPA PHILCO PH13 ATMA LVS135",
-    "PrecioTecnico": 33794.84,
+    "PrecioTecnico": 32896.63,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1512,
     "Nombre": "AGITADOR LAVARROPA SAMSUNG CON RODILLOS ECO",
-    "PrecioTecnico": 34515.87,
+    "PrecioTecnico": 33598.5,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 990,
     "Nombre": "AGITADOR LAVARROPA SAMSUNG CON RODILLOS ORIGINAL",
-    "PrecioTecnico": 42153.16,
+    "PrecioTecnico": 41032.81,
     "Rubro": "OTROS"
   },
   {
@@ -1408,55 +1378,55 @@ const productosLavaSeca = [
   {
     "Codigo": 420,
     "Nombre": "PLAQUETA LAVARROPA MC DREAN CONCEPT 5.05 V1",
-    "PrecioTecnico": 25974.61,
+    "PrecioTecnico": 25456.84,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 438,
     "Nombre": "PLAQUETA LAVARROPA MC DREAN CONCEPT FUZZY LOGIC TECH CON VISOR MC - L14",
-    "PrecioTecnico": 25974.61,
+    "PrecioTecnico": 25456.84,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 428,
     "Nombre": "PLAQUETA LAVARROPA MC ELECTROLUX DIGITAL WASH MC L35",
-    "PrecioTecnico": 43260.51,
+    "PrecioTecnico": 42398.18,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 854,
     "Nombre": "PLAQUETA LAVARROPA MC ELECTROLUX FUZZI WASH L36",
-    "PrecioTecnico": 45537.41,
+    "PrecioTecnico": 44629.69,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1560,
     "Nombre": "PLAQUETA LAVARROPA MC FASE 1 DREAN (MC-P00)",
-    "PrecioTecnico": 41972.03,
+    "PrecioTecnico": 41135.37,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 431,
     "Nombre": "PLAQUETA LAVARROPA MC FASE 2 PLUS (MC-P03)",
-    "PrecioTecnico": 41109.27,
+    "PrecioTecnico": 40289.82,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 433,
     "Nombre": "PLAQUETA LAVARROPA MC FASE 3 DREAN  (MC- P04)",
-    "PrecioTecnico": 41109.27,
+    "PrecioTecnico": 40289.82,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 423,
     "Nombre": "PLAQUETA LAVARROPA MC GAFFA FULL 6000/7000 (MC-L23)",
-    "PrecioTecnico": 30313.92,
+    "PrecioTecnico": 29709.65,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 434,
     "Nombre": "PLAQUETA LAVARROPA MC GAFFA MC 6500 7500 FASE 2 L25",
-    "PrecioTecnico": 32324.92,
+    "PrecioTecnico": 31680.57,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1656,7 +1626,7 @@ const productosCalefaccion = [
   {
     "Codigo": 1157,
     "Nombre": "DIODO ALTO VOLTAJE MICROONDAS 12KVA",
-    "PrecioTecnico": 5936.63,
+    "PrecioTecnico": 6206.91,
     "Rubro": "OTROS"
   },
   {
