@@ -1,3 +1,4 @@
+import redondearPrecio from "../static/formulas";
 export default function SectionCatalogo({ grupo, productos }) {
   let catalogoListado = [];
   grupo.map((codigo) => {
@@ -16,10 +17,7 @@ export default function SectionCatalogo({ grupo, productos }) {
               <h2>{catalogo.Nombre}</h2>
               <p>
                 $
-                {(
-                  parseInt(catalogo.PrecioTecnico) -
-                  (parseInt(catalogo.PrecioTecnico) % 50)
-                ).toFixed(2)}
+                {redondearPrecio(catalogo.PrecioTecnico).toFixed(2)}
               </p>
             </div>
           )
