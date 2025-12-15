@@ -1,5 +1,5 @@
 // Archivo generado automáticamente
-// Fecha de generación: 5/12/2025, 04:23:01
+// Fecha de generación: 15/12/2025, 04:20:42
 // Incluye: Aires acondicionados,  Heladeras y Lavadoras y Secadoras.
 
 const productosAires = [
@@ -53,13 +53,13 @@ const productosAires = [
   },
   {
     "Codigo": 103,
-    "Nombre": "CABLE TPR ENVAINADO 5X1.5 MM",
+    "Nombre": "CABLE TPR ENVAINADO 5 X 1.5 MM",
     "PrecioTecnico": 3349.5,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 104,
-    "Nombre": "CABLE TPR ENVAINADO 5X2.5 MM",
+    "Nombre": "CABLE TPR ENVAINADO 5 X 2.5 MM",
     "PrecioTecnico": 4700,
     "Rubro": "ELECTRICIDAD"
   },
@@ -72,43 +72,43 @@ const productosAires = [
   {
     "Codigo": 693,
     "Nombre": "CAÑO COBRE 1/2 POR METRO",
-    "PrecioTecnico": 9595.93,
+    "PrecioTecnico": 10530,
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
     "Codigo": 694,
     "Nombre": "CAÑO COBRE 1/4 POR METRO",
-    "PrecioTecnico": 4664.69,
+    "PrecioTecnico": 4725,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1046,
     "Nombre": "CAÑO COBRE 3/16 POR METRO",
-    "PrecioTecnico": 4211.89,
+    "PrecioTecnico": 4657.5,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 752,
     "Nombre": "CAÑO COBRE 3/4 POR METRO",
-    "PrecioTecnico": 14472.49,
+    "PrecioTecnico": 14175,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 123,
     "Nombre": "CAÑO COBRE 3/8 POR METRO",
-    "PrecioTecnico": 7196.95,
+    "PrecioTecnico": 7830,
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
     "Codigo": 124,
     "Nombre": "CAÑO COBRE 5/8 POR METRO",
-    "PrecioTecnico": 12845.83,
+    "PrecioTecnico": 13365,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 4308,
     "Nombre": "CAÑO COBRE 7/8 POR METRO",
-    "PrecioTecnico": 17927.96,
+    "PrecioTecnico": 20250,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -136,21 +136,27 @@ const productosAires = [
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
+    "Codigo": 1654,
+    "Nombre": "ESTRACTOR OVULOS MINI EVERTECH C/U",
+    "PrecioTecnico": 2946.68,
+    "Rubro": "REFRIGERACION"
+  },
+  {
     "Codigo": 7877,
-    "Nombre": "GARRAFA  ANTON R134A 13.6KG",
-    "PrecioTecnico": 339033.8,
+    "Nombre": "GARRAFA R 134 13.6KG ANTON",
+    "PrecioTecnico": 301050,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 7879,
-    "Nombre": "GARRAFA ANTON AN22 PLUS 11.3KG",
-    "PrecioTecnico": 285104.2,
+    "Nombre": "GARRAFA R 22 (AN22) PLUS 11.3KG ANTON",
+    "PrecioTecnico": 344976.07,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 7878,
-    "Nombre": "GARRAFA ANTON R410A 11.3KG",
-    "PrecioTecnico": 313326.78,
+    "Nombre": "GARRAFA R 410A 11.3KG ANTON",
+    "PrecioTecnico": 393707.12,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -172,68 +178,68 @@ const productosAires = [
     "Rubro": "REFRIGERACION"
   },
   {
+    "Codigo": 7880,
+    "Nombre": "LATA GAS R 134 ANTON 900G",
+    "PrecioTecnico": 24543.01,
+    "Rubro": "REFRIGERACION"
+  },
+  {
     "Codigo": 7881,
-    "Nombre": "LATA GAS ANTON AN22 PLUS 780G",
+    "Nombre": "LATA GAS R 22 ANTON AN 22 PLUS 780G",
     "PrecioTecnico": 24610.66,
     "Rubro": "REFRIGERACION"
   },
   {
-    "Codigo": 7885,
-    "Nombre": "LATA GAS ANTON AN41 (R410A) 680G",
-    "PrecioTecnico": 28341.06,
-    "Rubro": "REFRIGERACION"
-  },
-  {
-    "Codigo": 7882,
-    "Nombre": "LATA GAS ANTON AN44 (R404A) 650G",
-    "PrecioTecnico": 19002.53,
-    "Rubro": "REFRIGERACION"
-  },
-  {
-    "Codigo": 7880,
-    "Nombre": "LATA GAS ANTON R134A 900G",
-    "PrecioTecnico": 25675.29,
-    "Rubro": "REFRIGERACION"
-  },
-  {
     "Codigo": 7884,
-    "Nombre": "LATA GAS ANTON R32 650G",
+    "Nombre": "LATA GAS R 32 ANTON 650G",
     "PrecioTecnico": 28791.71,
     "Rubro": "REFRIGERACION"
   },
   {
-    "Codigo": 6712,
-    "Nombre": "LATA MAP P/SOLDAR X 400G ICELONG",
-    "PrecioTecnico": 17000,
+    "Codigo": 7882,
+    "Nombre": "LATA GAS R 404 ANTON 650G",
+    "PrecioTecnico": 19002.53,
     "Rubro": "REFRIGERACION"
   },
   {
-    "Codigo": 4138,
-    "Nombre": "LATA R141B X 900G TORRINGTON AGENTE DE LIMPIEZA",
-    "PrecioTecnico": 51800,
+    "Codigo": 7885,
+    "Nombre": "LATA GAS R 410 ANTON AN 41 (R410A) 680G",
+    "PrecioTecnico": 27000,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1373,
-    "Nombre": "LATA YH12 ANTON 425G",
+    "Nombre": "LATA GAS YH12 ANTON 425G",
     "PrecioTecnico": 22638.8,
     "Rubro": "OTROS"
   },
   {
+    "Codigo": 6712,
+    "Nombre": "LATA MAP P/SOLDAR 400G ICELONG",
+    "PrecioTecnico": 12825,
+    "Rubro": "REFRIGERACION"
+  },
+  {
+    "Codigo": 4138,
+    "Nombre": "LATA R 141B TORRINGTON 900G AGENTE DE LIMPIEZA",
+    "PrecioTecnico": 51800,
+    "Rubro": "REFRIGERACION"
+  },
+  {
     "Codigo": 205,
     "Nombre": "MANGUERA CRISTAL 5/8 X METRO",
-    "PrecioTecnico": 1147.14,
+    "PrecioTecnico": 1100.25,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1558,
-    "Nombre": "MENSULA 40CM ECO 3000F/3500F",
+    "Nombre": "MENSULA 40 CM  3000F/3500F",
     "PrecioTecnico": 8664.69,
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
     "Codigo": 342,
-    "Nombre": "MENSULA 52 CM NV 105 HASTA 4500 FRIG",
+    "Nombre": "MENSULA 52 CM 4500 FRIG",
     "PrecioTecnico": 12191.03,
     "Rubro": "OTROS"
   },
@@ -250,34 +256,34 @@ const productosAires = [
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
-    "Codigo": 7934,
-    "Nombre": "PLAQUETA AIRE UNIVERSAL PISO TECHO QD-U11A EVERTECH",
-    "PrecioTecnico": 61450.31,
-    "Rubro": "REFRIGERACION"
-  },
-  {
-    "Codigo": 7933,
-    "Nombre": "PLAQUETA AIRE UNIVERSAL QD-U08C EVERTECH RELE",
-    "PrecioTecnico": 36941.22,
-    "Rubro": "REFRIGERACION"
-  },
-  {
     "Codigo": 445,
-    "Nombre": "PLAQUETA AIRE UNIVERSAL QDU-08PGC+ (VERDE)",
+    "Nombre": "PLAQUETA AIRE UNIVERSAL QD- 08 PG C+ (VERDE)",
     "PrecioTecnico": 40406.49,
     "Rubro": "OTROS"
   },
   {
+    "Codigo": 7933,
+    "Nombre": "PLAQUETA AIRE UNIVERSAL QD- 08 PG+ EVERTECH RELE",
+    "PrecioTecnico": 36941.22,
+    "Rubro": "REFRIGERACION"
+  },
+  {
     "Codigo": 1358,
-    "Nombre": "PLAQUETA UNIVERSAL AIRE INVERTER QD80C",
+    "Nombre": "PLAQUETA AIRE UNIVERSAL QD- 80 C INVERTER",
     "PrecioTecnico": 222630.15,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1357,
-    "Nombre": "PLAQUETA UNIVERSAL AIRE INVERTER QD81B",
+    "Nombre": "PLAQUETA AIRE UNIVERSAL QD- 81 B INVERTER",
     "PrecioTecnico": 266318.33,
     "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 7934,
+    "Nombre": "PLAQUETA AIRE UNIVERSAL QD-11 A PISO TECHO EVERTECH",
+    "PrecioTecnico": 61450.31,
+    "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1675,
@@ -312,24 +318,24 @@ const productosAires = [
   {
     "Codigo": 495,
     "Nombre": "ROLLO CAÑO 1/2 OFERTA X 15 METROS",
-    "PrecioTecnico": 140740.28,
+    "PrecioTecnico": 148500.01,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1077,
     "Nombre": "ROLLO CAÑO 1/4 OFERTA POR 15 METROS",
-    "PrecioTecnico": 68355.61,
+    "PrecioTecnico": 68850.01,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 496,
     "Nombre": "ROLLO CAÑO 3/8 OFERTA X 15 METROS",
-    "PrecioTecnico": 107954.19,
+    "PrecioTecnico": 110700,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 5439,
-    "Nombre": "ROTATIVO 2250F R22 -PH140X2C1-8FTC1 TOSHIBA",
+    "Nombre": "ROTATIVO 2250 F R 22 -PH140X2C1-8FTC1 TOSHIBA",
     "PrecioTecnico": 153969.49,
     "Rubro": "REFRIGERACION"
   },
@@ -340,22 +346,22 @@ const productosAires = [
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
+    "Codigo": 5441,
+    "Nombre": "ROTATIVO 6000 F R 410 -PANASONIC 5VS270EAA21",
+    "PrecioTecnico": 302683.73,
+    "Rubro": "REFRIGERACION"
+  },
+  {
     "Codigo": 5440,
     "Nombre": "ROTATIVO 6000F R410 -GMCC-PA236G2C-4MTL",
     "PrecioTecnico": 302683.73,
     "Rubro": "REFRIGERACION"
   },
   {
-    "Codigo": 5441,
-    "Nombre": "ROTATIVO 6000F R410 -PANASONIC 5VS270EAA21",
-    "PrecioTecnico": 302683.73,
-    "Rubro": "REFRIGERACION"
-  },
-  {
-    "Codigo": 1654,
-    "Nombre": "SACA OVULOS MINI EVERTECH C/U",
-    "PrecioTecnico": 2946.68,
-    "Rubro": "REFRIGERACION"
+    "Codigo": 515,
+    "Nombre": "SENSOR AIRE  5 K  \"AMBIENTE Y CAÑO \" SERPENTINA  C/FICHA A/A",
+    "PrecioTecnico": 5899.6,
+    "Rubro": "OTROS"
   },
   {
     "Codigo": 513,
@@ -370,46 +376,40 @@ const productosAires = [
     "Rubro": "OTROS"
   },
   {
-    "Codigo": 515,
-    "Nombre": "SENSOR AIRE 5 K  \"AMBIENTE Y CAÑO \" SERPENTINA  C/FICHA A/A",
-    "PrecioTecnico": 5899.6,
-    "Rubro": "OTROS"
-  },
-  {
-    "Codigo": 1315,
-    "Nombre": "TUERCA BRONCE 1\"(CAÑO-3/4)",
-    "PrecioTecnico": 7802.25,
-    "Rubro": "OTROS"
-  },
-  {
-    "Codigo": 639,
-    "Nombre": "TUERCA BRONCE 3/4(CAÑO-1/2)",
-    "PrecioTecnico": 2976.61,
+    "Codigo": 6758,
+    "Nombre": "TUERCA BRONCE    5/16",
+    "PrecioTecnico": 2127.88,
     "Rubro": "REFRIGERACION"
   },
   {
-    "Codigo": 259,
-    "Nombre": "TUERCA BRONCE 5/8 (CAÑO-3/8)",
-    "PrecioTecnico": 2576.41,
-    "Rubro": "LAVARROPAS"
-  },
-  {
     "Codigo": 65,
-    "Nombre": "TUERCA BRONCE 7/16 (CAÑO-1/4)",
+    "Nombre": "TUERCA BRONCE   1/4",
     "PrecioTecnico": 1418.59,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 925,
-    "Nombre": "TUERCA BRONCE 7/8(CAÑO-5/8)",
+    "Nombre": "TUERCA BRONCE  3/8",
     "PrecioTecnico": 5945.57,
     "Rubro": "ELECTRICIDAD"
   },
   {
-    "Codigo": 6758,
-    "Nombre": "TUERCA BRONCE P/CAÑO 5/16",
-    "PrecioTecnico": 2127.88,
+    "Codigo": 639,
+    "Nombre": "TUERCA BRONCE  3/8",
+    "PrecioTecnico": 2976.61,
     "Rubro": "REFRIGERACION"
+  },
+  {
+    "Codigo": 259,
+    "Nombre": "TUERCA BRONCE 5/8",
+    "PrecioTecnico": 2576.41,
+    "Rubro": "LAVARROPAS"
+  },
+  {
+    "Codigo": 1315,
+    "Nombre": "TUERCA BRONCE3/4",
+    "PrecioTecnico": 7802.25,
+    "Rubro": "OTROS"
   },
   {
     "Codigo": 629,
@@ -449,7 +449,7 @@ const productosAires = [
   },
   {
     "Codigo": 1306,
-    "Nombre": "VALVULA DE SERVICIO SPLIT 5/8 RECTA R22",
+    "Nombre": "VALVULA DE SERVICIO SPLIT 5/8 RECTA R410",
     "PrecioTecnico": 18869.35,
     "Rubro": "OTROS"
   },
@@ -461,7 +461,7 @@ const productosAires = [
   },
   {
     "Codigo": 1564,
-    "Nombre": "VARILLA ALUMINIO HARRIS",
+    "Nombre": "VARILLA ALUMINIO COBRE HARRIS",
     "PrecioTecnico": 3990.75,
     "Rubro": "REFRIGERACION"
   },
@@ -594,14 +594,14 @@ const productosHeladeras = [
     "Rubro": "REFRIGERACION"
   },
   {
-    "Codigo": 746,
-    "Nombre": "BURLETE HELADERA PRESION NEGRO 2000 X 1000",
+    "Codigo": 87,
+    "Nombre": "BURLETE HELADERA PRESION NEGRO 1850 X 800 \"L\" EXHIBIDORA",
     "PrecioTecnico": 18413.45,
     "Rubro": "REFRIGERACION"
   },
   {
-    "Codigo": 87,
-    "Nombre": "BURLETE HELADERA PRESION NEGROS 1850 X 800 \"L\" EXHIBIDORA",
+    "Codigo": 746,
+    "Nombre": "BURLETE HELADERA PRESION NEGRO 2000 X 1000",
     "PrecioTecnico": 18413.45,
     "Rubro": "REFRIGERACION"
   },
@@ -672,33 +672,33 @@ const productosHeladeras = [
     "Rubro": "REFRIGERACION"
   },
   {
+    "Codigo": 251,
+    "Nombre": "FORZADOR TIPO ELCO MOD  5-30W",
+    "PrecioTecnico": 14998.38,
+    "Rubro": "REFRIGERACION"
+  },
+  {
     "Codigo": 250,
-    "Nombre": "FORZADOR TIPO ELCO MOD10- 40W",
+    "Nombre": "FORZADOR TIPO ELCO MOD 10- 40W",
     "PrecioTecnico": 19692.24,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1230,
-    "Nombre": "FORZADOR TIPO ELCO MOD16",
+    "Nombre": "FORZADOR TIPO ELCO MOD 16",
     "PrecioTecnico": 27393.12,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1599,
-    "Nombre": "FORZADOR TIPO ELCO MOD25-100W",
+    "Nombre": "FORZADOR TIPO ELCO MOD 25-100W",
     "PrecioTecnico": 32855.91,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 400,
-    "Nombre": "FORZADOR TIPO ELCO MOD34-130W",
+    "Nombre": "FORZADOR TIPO ELCO MOD 34-130W",
     "PrecioTecnico": 28302.55,
-    "Rubro": "REFRIGERACION"
-  },
-  {
-    "Codigo": 251,
-    "Nombre": "FORZADOR TIPO ELCO MOD5-30W",
-    "PrecioTecnico": 14998.38,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -714,34 +714,34 @@ const productosHeladeras = [
     "Rubro": "ELECTRICIDAD"
   },
   {
-    "Codigo": 363,
-    "Nombre": "MOTOR HELADERA FAMILIAR HUAYI 1/3 R134 HY",
-    "PrecioTecnico": 98862.32,
+    "Codigo": 365,
+    "Nombre": "MOTOR HELADERA FAMILIAR    1/5 R 134 HUAYI",
+    "PrecioTecnico": 74586.17,
     "Rubro": "REFRIGERACION"
   },
   {
-    "Codigo": 1307,
-    "Nombre": "MOTOR HELADERA FAMILIAR HUAYI 1/3+ 134",
-    "PrecioTecnico": 100735.3,
-    "Rubro": "OTROS"
-  },
-  {
     "Codigo": 364,
-    "Nombre": "MOTOR HELADERA FAMILIAR HUAYI 1/4 R134 HYE69YK",
+    "Nombre": "MOTOR HELADERA FAMILIAR   1/4 R 134 HUAYI HYE69YK",
     "PrecioTecnico": 78145.45,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 366,
-    "Nombre": "MOTOR HELADERA FAMILIAR HUAYI 1/4+ R134-",
+    "Nombre": "MOTOR HELADERA FAMILIAR   1/4+ R 134 HUAYI",
     "PrecioTecnico": 85865.49,
     "Rubro": "REFRIGERACION"
   },
   {
-    "Codigo": 365,
-    "Nombre": "MOTOR HELADERA FAMILIAR HUAYI 1/5 R134",
-    "PrecioTecnico": 74586.17,
+    "Codigo": 363,
+    "Nombre": "MOTOR HELADERA FAMILIAR  1/3 R 134 HUAYI",
+    "PrecioTecnico": 98862.32,
     "Rubro": "REFRIGERACION"
+  },
+  {
+    "Codigo": 1307,
+    "Nombre": "MOTOR HELADERA FAMILIAR  1/3+ R 134 HUAYI",
+    "PrecioTecnico": 100735.3,
+    "Rubro": "OTROS"
   },
   {
     "Codigo": 2000,
@@ -757,9 +757,27 @@ const productosHeladeras = [
   },
   {
     "Codigo": 477,
-    "Nombre": "RELAY HELADERA UNIVERSAL PTC",
+    "Nombre": "RELAY HELADERA UNIVERSAL PTC 4 PIN",
     "PrecioTecnico": 4400.66,
     "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 516,
+    "Nombre": "SENSOR HELADERA NO FROST  2,7 K",
+    "PrecioTecnico": 5844.41,
+    "Rubro": "HELADERA"
+  },
+  {
+    "Codigo": 517,
+    "Nombre": "SENSOR HELADERA NO FROST  5 K",
+    "PrecioTecnico": 5844.41,
+    "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 1954,
+    "Nombre": "SENSOR HELADERA NO FROST  5 K ORIGINAL",
+    "PrecioTecnico": 30184.45,
+    "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 256,
@@ -768,52 +786,34 @@ const productosHeladeras = [
     "Rubro": "LAVARROPAS"
   },
   {
-    "Codigo": 516,
-    "Nombre": "SENSOR HELADERA NO FROST 2,7 K",
-    "PrecioTecnico": 5844.41,
-    "Rubro": "HELADERA"
-  },
-  {
-    "Codigo": 517,
-    "Nombre": "SENSOR HELADERA NO FROST 5 K",
-    "PrecioTecnico": 5844.41,
-    "Rubro": "OTROS"
-  },
-  {
-    "Codigo": 1954,
-    "Nombre": "SENSOR HELADERA NO FROST ORIGINAL 5K",
-    "PrecioTecnico": 30184.45,
+    "Codigo": 1999,
+    "Nombre": "TERMICO HELADERA   1/5HP UNIVERSAL",
+    "PrecioTecnico": 3696.56,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1998,
-    "Nombre": "TERMICO UNIVERSAL HELADERA 1/3HP PTC",
+    "Nombre": "TERMICO HELADERA 1/3HP PTC UNIVERSAL",
     "PrecioTecnico": 3696.56,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 4241,
-    "Nombre": "TERMICO UNIVERSAL HELADERA 1/3HP TIPO TAMBOR",
+    "Nombre": "TERMICO HELADERA 1/3HP TIPO TAMBOR",
     "PrecioTecnico": 3066.65,
     "Rubro": "HELADERA"
   },
   {
+    "Codigo": 1997,
+    "Nombre": "TERMICO HELADERA 1/4HP TIPO TAMBOR",
+    "PrecioTecnico": 3696.56,
+    "Rubro": "REFRIGERACION"
+  },
+  {
     "Codigo": 545,
-    "Nombre": "TERMICO UNIVERSAL HELADERA 1/4HP",
+    "Nombre": "TERMICO HELADERA 1/4HP UNIVERSAL",
     "PrecioTecnico": 3696.56,
     "Rubro": "OTROS"
-  },
-  {
-    "Codigo": 1997,
-    "Nombre": "TERMICO UNIVERSAL HELADERA 1/4HP TIPO TAMBOR",
-    "PrecioTecnico": 3696.56,
-    "Rubro": "REFRIGERACION"
-  },
-  {
-    "Codigo": 1999,
-    "Nombre": "TERMICO UNIVERSAL HELADERA 1/5HP",
-    "PrecioTecnico": 3696.56,
-    "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1653,
@@ -829,13 +829,13 @@ const productosHeladeras = [
   },
   {
     "Codigo": 579,
-    "Nombre": "TERMOSTATO AMBIENTE TIPO PRODIGY BULVO CORTO +30-30",
+    "Nombre": "TERMOSTATO  AMBIENTE TIPO PRODIGY BULVO CORTO +30-30",
     "PrecioTecnico": 8554.89,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1073,
-    "Nombre": "TERMOSTATO AMBIENTE TIPO PRODIGY BULVO LARGO +30-30",
+    "Nombre": "TERMOSTATO  AMBIENTE TIPO PRODIGY BULVO LARGO +30-30",
     "PrecioTecnico": 14633.42,
     "Rubro": "OTROS"
   },
@@ -1299,14 +1299,8 @@ const productosLavaSeca = [
   },
   {
     "Codigo": 1354,
-    "Nombre": "FUELLE LAVARROPA DREAN 166 ECO",
+    "Nombre": "FUELLE LAVARROPA DREAN 166 NACIONAL SOLID",
     "PrecioTecnico": 13082.07,
-    "Rubro": "OTROS"
-  },
-  {
-    "Codigo": 1353,
-    "Nombre": "FUELLE LAVARROPA DREAN BLUE C/ PICO ECO",
-    "PrecioTecnico": 18254.9,
     "Rubro": "OTROS"
   },
   {
@@ -1314,6 +1308,12 @@ const productosLavaSeca = [
     "Nombre": "FUELLE LAVARROPA DREAN BLUE C/ PICO NACIONAL",
     "PrecioTecnico": 13811.43,
     "Rubro": "LAVARROPAS"
+  },
+  {
+    "Codigo": 1353,
+    "Nombre": "FUELLE LAVARROPA DREAN BLUE C/ PICO SOLID",
+    "PrecioTecnico": 18254.9,
+    "Rubro": "OTROS"
   },
   {
     "Codigo": 5522,
@@ -1389,7 +1389,7 @@ const productosLavaSeca = [
   },
   {
     "Codigo": 7785,
-    "Nombre": "MANGUERA CARGA 1,5M GRIS ITALIANA",
+    "Nombre": "MANGUERA CARGA LAVARROPA 1,5M GRIS ITALIANA",
     "PrecioTecnico": 8452.1,
     "Rubro": "LAVARROPAS"
   },
@@ -1473,33 +1473,33 @@ const productosLavaSeca = [
   },
   {
     "Codigo": 485,
-    "Nombre": "RETEN LAVARROPA DREAN BLUE 6204 MOD 6.06, 6.08 7.8 25X47X8",
+    "Nombre": "RETEN  25 X 47 X 8  LAVARROPA DREAN BLUE 6204 MOD 6.06, 6.08 7.8",
     "PrecioTecnico": 3380.69,
     "Rubro": "LAVARROPAS"
   },
   {
-    "Codigo": 486,
-    "Nombre": "RETEN LAVARROPA DREAN BLUE 6205 MOD 8.12 Y NEXT 30X52X8.5",
-    "PrecioTecnico": 3169.03,
-    "Rubro": "LAVARROPAS"
-  },
-  {
     "Codigo": 678,
-    "Nombre": "RETEN LAVARROPA DREAN CONCEPT 5.05 MOD NUEVO /TECH 25X48.8X57.6X14",
+    "Nombre": "RETEN  25 X 48.8 X 57.6 X 14 LAVARROPA DREAN CONCEPT 5.05 MOD NUEVO /TECH",
     "PrecioTecnico": 5313.48,
     "Rubro": "LAVARROPAS"
   },
   {
-    "Codigo": 667,
-    "Nombre": "RETEN LAVARROPA SAMSUNG 35X 65,5X10/12 WFK",
-    "PrecioTecnico": 4670.14,
-    "Rubro": "ELECTRICIDAD"
+    "Codigo": 486,
+    "Nombre": "RETEN  30 X 52 X 8.5 LAVARROPA DREAN BLUE 6205 MOD 8.12 Y NEXT",
+    "PrecioTecnico": 3169.03,
+    "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 815,
-    "Nombre": "RETEN LAVARROPA WHIRLPOOL 680 (30X63X15/17)",
+    "Nombre": "RETEN  30 X 63 X 15/17 LAVARROPA WHIRLPOOL 680",
     "PrecioTecnico": 3717.05,
     "Rubro": "LAVARROPAS"
+  },
+  {
+    "Codigo": 667,
+    "Nombre": "RETEN  35 X 65,5 X 10/12 LAVARROPA SAMSUNG WFK",
+    "PrecioTecnico": 4670.14,
+    "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 4056,
@@ -1661,13 +1661,13 @@ const productosCalefaccion = [
   },
   {
     "Codigo": 223,
-    "Nombre": "FICHA PLANCHA /CALEFON",
+    "Nombre": "ENCHUFE FICHA PLANCHA /CALEFON",
     "PrecioTecnico": 5042.99,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 265,
-    "Nombre": "FUSIBLE ALTO  VOLTAJE MICROONDAS 0.85/0,9A",
+    "Nombre": "FUSIBLE  0.85/0,9A MICROONDA ALTO  VOLTAJE",
     "PrecioTecnico": 7200.14,
     "Rubro": "HORNO ELECTRICO"
   },
@@ -1676,12 +1676,6 @@ const productosCalefaccion = [
     "Nombre": "JUNTA GOMA TERMOTANQUES JAMES 5 AGUJEROS ORIGINAL",
     "PrecioTecnico": 14010.29,
     "Rubro": "OTROS"
-  },
-  {
-    "Codigo": 798,
-    "Nombre": "LIMITADOR TERMOTANQUE LONGVIE",
-    "PrecioTecnico": 14746.61,
-    "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 354,
@@ -1697,7 +1691,7 @@ const productosCalefaccion = [
   },
   {
     "Codigo": 1425,
-    "Nombre": "PLACA MICA PARA MICROONDAS 10X10",
+    "Nombre": "PLACA MICA MICROONDAS 10X10",
     "PrecioTecnico": 5242,
     "Rubro": "COCINA "
   },
@@ -1757,31 +1751,37 @@ const productosCalefaccion = [
   },
   {
     "Codigo": 567,
-    "Nombre": "TERMOSTATO HORNO ELECTRICO 1/2 GIRO",
+    "Nombre": "TERMOSTATO  1/2 GIRO HORNO ELECTRICO",
     "PrecioTecnico": 9699.32,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 581,
-    "Nombre": "TERMOSTATO HORNO ELECTRICOS 3/4 GIRO",
+    "Nombre": "TERMOSTATO  3/4 GIRO HORNO ELECTRICO",
     "PrecioTecnico": 9699.32,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 565,
-    "Nombre": "TERMOSTATO TERMOTANQUE  DE CONTACTO SAIR",
+    "Nombre": "TERMOSTATO  TERMOTANQUE  DE CONTACTO SAIR",
     "PrecioTecnico": 46339.13,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 403,
-    "Nombre": "TERMOSTATO TERMOTANQUE BULBO LARGO LONGVIE",
+    "Nombre": "TERMOSTATO  TERMOTANQUE BULBO LARGO LONGVIE",
     "PrecioTecnico": 20720,
     "Rubro": "OTROS"
   },
   {
+    "Codigo": 798,
+    "Nombre": "TERMOSTATO  TERMOTANQUE LIMITADOR LONGVIE",
+    "PrecioTecnico": 14746.61,
+    "Rubro": "LAVARROPAS"
+  },
+  {
     "Codigo": 1094,
-    "Nombre": "TERMOSTATO TERMOTANQUE PARA RESISTENCIA 1/4",
+    "Nombre": "TERMOSTATO  TERMOTANQUE PARA RESISTENCIA 1/4",
     "PrecioTecnico": 11603.2,
     "Rubro": "OTROS"
   },
