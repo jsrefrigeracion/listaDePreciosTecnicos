@@ -1,5 +1,5 @@
 // Archivo generado automáticamente
-// Fecha de generación: 15/12/2025, 04:20:42
+// Fecha de generación: 16/12/2025, 06:09:13
 // Incluye: Aires acondicionados,  Heladeras y Lavadoras y Secadoras.
 
 const productosAires = [
@@ -24,43 +24,43 @@ const productosAires = [
   {
     "Codigo": 28,
     "Nombre": "AISLANTE GOMA 1/2",
-    "PrecioTecnico": 3042.72,
+    "PrecioTecnico": 1760,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 29,
     "Nombre": "AISLANTE GOMA 1/4",
-    "PrecioTecnico": 1644.35,
+    "PrecioTecnico": 1005.98,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 30,
     "Nombre": "AISLANTE GOMA 3/8",
-    "PrecioTecnico": 2246.35,
+    "PrecioTecnico": 1520,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 31,
     "Nombre": "AISLANTE GOMA 5/8",
-    "PrecioTecnico": 3210.67,
+    "PrecioTecnico": 2160,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 159,
     "Nombre": "AISLANTE GOMA 7/8",
-    "PrecioTecnico": 4597.39,
+    "PrecioTecnico": 3360,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 103,
     "Nombre": "CABLE TPR ENVAINADO 5 X 1.5 MM",
-    "PrecioTecnico": 3349.5,
+    "PrecioTecnico": 2800,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 104,
     "Nombre": "CABLE TPR ENVAINADO 5 X 2.5 MM",
-    "PrecioTecnico": 4700,
+    "PrecioTecnico": 3640,
     "Rubro": "ELECTRICIDAD"
   },
   {
@@ -258,31 +258,31 @@ const productosAires = [
   {
     "Codigo": 445,
     "Nombre": "PLAQUETA AIRE UNIVERSAL QD- 08 PG C+ (VERDE)",
-    "PrecioTecnico": 40406.49,
+    "PrecioTecnico": 37800,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 7933,
     "Nombre": "PLAQUETA AIRE UNIVERSAL QD- 08 PG+ EVERTECH RELE",
-    "PrecioTecnico": 36941.22,
+    "PrecioTecnico": 30898.1,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1358,
     "Nombre": "PLAQUETA AIRE UNIVERSAL QD- 80 C INVERTER",
-    "PrecioTecnico": 222630.15,
+    "PrecioTecnico": 220694.05,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1357,
     "Nombre": "PLAQUETA AIRE UNIVERSAL QD- 81 B INVERTER",
-    "PrecioTecnico": 266318.33,
+    "PrecioTecnico": 264002.33,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 7934,
     "Nombre": "PLAQUETA AIRE UNIVERSAL QD-11 A PISO TECHO EVERTECH",
-    "PrecioTecnico": 61450.31,
+    "PrecioTecnico": 51397.81,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -456,7 +456,7 @@ const productosAires = [
   {
     "Codigo": 1190,
     "Nombre": "VALVULA PINCHE 1/4 C/ALLEN",
-    "PrecioTecnico": 7674.76,
+    "PrecioTecnico": 5318.82,
     "Rubro": "OTROS"
   },
   {
@@ -786,12 +786,6 @@ const productosHeladeras = [
     "Rubro": "LAVARROPAS"
   },
   {
-    "Codigo": 1999,
-    "Nombre": "TERMICO HELADERA   1/5HP UNIVERSAL",
-    "PrecioTecnico": 3696.56,
-    "Rubro": "REFRIGERACION"
-  },
-  {
     "Codigo": 1998,
     "Nombre": "TERMICO HELADERA 1/3HP PTC UNIVERSAL",
     "PrecioTecnico": 3696.56,
@@ -814,6 +808,12 @@ const productosHeladeras = [
     "Nombre": "TERMICO HELADERA 1/4HP UNIVERSAL",
     "PrecioTecnico": 3696.56,
     "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 1999,
+    "Nombre": "TERMICO HELADERA 1/5HP UNIVERSAL",
+    "PrecioTecnico": 3696.56,
+    "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1653,
@@ -1030,7 +1030,7 @@ const productosLavaSeca = [
   {
     "Codigo": 74,
     "Nombre": "BUJE ARRASTRE DREAN CONCEPT",
-    "PrecioTecnico": 1956.71,
+    "PrecioTecnico": 2500,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1138,25 +1138,25 @@ const productosLavaSeca = [
   {
     "Codigo": 177,
     "Nombre": "CORREA PLASTICA 4 VIAS ECO CORTA LAVARROPA COMUN",
-    "PrecioTecnico": 3214.33,
+    "PrecioTecnico": 1920,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 4388,
     "Nombre": "CORREA PLASTICA 4 VIAS ORIGINAL LARGA TIPO JM 90",
-    "PrecioTecnico": 3190.38,
+    "PrecioTecnico": 2320,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 4389,
     "Nombre": "CORREA PLASTICA 5 VIAS ECO DREAN CONCEPT M/V",
-    "PrecioTecnico": 4188.56,
+    "PrecioTecnico": 3200,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 186,
     "Nombre": "CORREA PLASTICA 7 VIAS ORIG DREAN CONCEPT VIEJO",
-    "PrecioTecnico": 6628.71,
+    "PrecioTecnico": 12800,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1192,25 +1192,25 @@ const productosLavaSeca = [
   {
     "Codigo": 702,
     "Nombre": "EJE LAVARROPA DREAN 166 ECO AC&C",
-    "PrecioTecnico": 16113.1,
+    "PrecioTecnico": 16800,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 206,
     "Nombre": "EJE LAVARROPA DREAN BLUE 6.06 ECO AC&C",
-    "PrecioTecnico": 22216.55,
+    "PrecioTecnico": 21560,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1374,
     "Nombre": "EJE LAVARROPA DREAN BLUE 6.06 PLASTICO DON PEDRO C/ RETEN",
-    "PrecioTecnico": 17780.37,
+    "PrecioTecnico": 16800,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 683,
     "Nombre": "EJE LAVARROPA DREAN NEXT 8.12 8.14 ESTRIADO  AC&C",
-    "PrecioTecnico": 25333.38,
+    "PrecioTecnico": 25200,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1300,19 +1300,19 @@ const productosLavaSeca = [
   {
     "Codigo": 1354,
     "Nombre": "FUELLE LAVARROPA DREAN 166 NACIONAL SOLID",
-    "PrecioTecnico": 13082.07,
+    "PrecioTecnico": 13300,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 262,
     "Nombre": "FUELLE LAVARROPA DREAN BLUE C/ PICO NACIONAL",
-    "PrecioTecnico": 13811.43,
+    "PrecioTecnico": 13300,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1353,
     "Nombre": "FUELLE LAVARROPA DREAN BLUE C/ PICO SOLID",
-    "PrecioTecnico": 18254.9,
+    "PrecioTecnico": 13300,
     "Rubro": "OTROS"
   },
   {
@@ -1324,7 +1324,7 @@ const productosLavaSeca = [
   {
     "Codigo": 258,
     "Nombre": "FUELLE LAVARROPA DREAN NEXT NACIONAL",
-    "PrecioTecnico": 24237.91,
+    "PrecioTecnico": 25200,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1354,37 +1354,37 @@ const productosLavaSeca = [
   {
     "Codigo": 7800,
     "Nombre": "KIT EJE DREAN 166/EXCELLENT 189TD/AURORA 5515/PATRIOT 414",
-    "PrecioTecnico": 26524.35,
+    "PrecioTecnico": 30694.72,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7775,
     "Nombre": "KIT EJE DREAN BLUE 6.06 6.08 PATRIOT615 (C/RODAMIENTO Y RETEN)",
-    "PrecioTecnico": 30392.2,
+    "PrecioTecnico": 37542.44,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7801,
     "Nombre": "KIT EJE DREAN BLUE 8.12 Y NEXT 8.12",
-    "PrecioTecnico": 40711.15,
+    "PrecioTecnico": 46662.61,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7776,
     "Nombre": "KIT EJE DREAN CONCEPT 5.05/FUZZY TECH RODAMIENTO Y RETEN",
-    "PrecioTecnico": 64127.11,
+    "PrecioTecnico": 70107.5,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7803,
     "Nombre": "KIT EJE ELECTROLUX 500",
-    "PrecioTecnico": 44835.7,
+    "PrecioTecnico": 58667.75,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7849,
     "Nombre": "KIT EJE LAVARROPA DREAN UNICOMANND VIEJO",
-    "PrecioTecnico": 64190.61,
+    "PrecioTecnico": 70202.81,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1402,7 +1402,7 @@ const productosLavaSeca = [
   {
     "Codigo": 7869,
     "Nombre": "MANGUERA DESAGOTE 1.8  RECTA NACIONAL",
-    "PrecioTecnico": 2546,
+    "PrecioTecnico": 3060,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1462,13 +1462,13 @@ const productosLavaSeca = [
   {
     "Codigo": 4288,
     "Nombre": "PORTARODAMIENTO DREAN FAMILY LADO POLEA",
-    "PrecioTecnico": 33115.76,
+    "PrecioTecnico": 36400,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 4289,
     "Nombre": "PORTARODAMIENTO DREAN FAMILY OPUESTO POLEA",
-    "PrecioTecnico": 31394.37,
+    "PrecioTecnico": 33600,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1546,7 +1546,7 @@ const productosLavaSeca = [
   {
     "Codigo": 490,
     "Nombre": "RODAMIENTO SKF 6202",
-    "PrecioTecnico": 5189.4,
+    "PrecioTecnico": 5320,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1558,13 +1558,13 @@ const productosLavaSeca = [
   {
     "Codigo": 492,
     "Nombre": "RODAMIENTO SKF 6204",
-    "PrecioTecnico": 7756.24,
+    "PrecioTecnico": 7280,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 493,
     "Nombre": "RODAMIENTO SKF 6205",
-    "PrecioTecnico": 11110.2,
+    "PrecioTecnico": 11013.58,
     "Rubro": "LAVARROPAS"
   },
   {
