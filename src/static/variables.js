@@ -2,8 +2,10 @@ import cañosCobre from "/cañosCobre.jpg";
 import heladera from "/heladera.webp";
 import lavarropas from "/lavarropas.webp";
 import termotanque from "/termotanque.webp";
+import capacitores from "/capacitores.png";
 import {
   productosAires,
+  productosCapacitores,
   productosHeladeras,
   productosLavaSeca,
   productosCalefaccion,
@@ -197,6 +199,11 @@ const calefaccionGrupos = {
   grupo8: ["1453", "5587", "735", "1451", "26", "651", "736", "1452"],
 };
 
+const capacitoresGrupos = {
+  grupo1: ["1339", "1344", "1346", "1347", "1348", "4268"],
+  grupo2: ["1419", "685", "125", "689", "1205", "1296"]
+}
+
 const Productos = [
   {
     titulo: "Aires",
@@ -204,6 +211,13 @@ const Productos = [
     imagen: cañosCobre,
     productosCodigo: RefAireGrupos,
     productos: productosAires,
+  },
+  {
+    titulo: "Capacitores",
+    rubro: "REFRIGERACIÓN",
+    imagen: capacitores,
+    productosCodigo: capacitoresGrupos,
+    productos: productosCapacitores,
   },
   {
     titulo: "Heladeras",
@@ -237,6 +251,13 @@ const ProductosRefrigeracion = [
     productos: productosAires,
   },
   {
+    titulo: "Capacitores",
+    rubro: "REFRIGERACIÓN",
+    imagen: capacitores,
+    productosCodigo: capacitoresGrupos,
+    productos: productosCapacitores,
+  },
+  {
     titulo: "Heladeras",
     rubro: "REFRIGERACIÓN",
     imagen: heladera,
@@ -264,10 +285,7 @@ const ProductosCalefaccion = [
     productos: productosCalefaccion,
   },
 ];
-export {
-  RefHeladeraGrupos,
-  RefAireGrupos,
-  lavaSecaGrupos,
+export { 
   ProductosRefrigeracion,
   ProductosLavaSeca,
   ProductosCalefaccion,

@@ -1,5 +1,5 @@
 // Archivo generado automáticamente
-// Fecha de generación: 16/12/2025, 06:09:13
+// Fecha de generación: 17/12/2025, 05:03:54
 // Incluye: Aires acondicionados,  Heladeras y Lavadoras y Secadoras.
 
 const productosAires = [
@@ -132,7 +132,7 @@ const productosAires = [
   {
     "Codigo": 8005,
     "Nombre": "CONTROL UNIVERSAL AIRE AC KT-9018E FIJAMOM",
-    "PrecioTecnico": 6652.1,
+    "PrecioTecnico": 6160,
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
@@ -378,37 +378,37 @@ const productosAires = [
   {
     "Codigo": 6758,
     "Nombre": "TUERCA BRONCE    5/16",
-    "PrecioTecnico": 2127.88,
+    "PrecioTecnico": 1914.39,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 65,
     "Nombre": "TUERCA BRONCE   1/4",
-    "PrecioTecnico": 1418.59,
+    "PrecioTecnico": 1520,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 925,
     "Nombre": "TUERCA BRONCE  3/8",
-    "PrecioTecnico": 5945.57,
+    "PrecioTecnico": 2400,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 639,
     "Nombre": "TUERCA BRONCE  3/8",
-    "PrecioTecnico": 2976.61,
+    "PrecioTecnico": 2400,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 259,
     "Nombre": "TUERCA BRONCE 5/8",
-    "PrecioTecnico": 2576.41,
+    "PrecioTecnico": 2073.92,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1315,
     "Nombre": "TUERCA BRONCE3/4",
-    "PrecioTecnico": 7802.25,
+    "PrecioTecnico": 7019.45,
     "Rubro": "OTROS"
   },
   {
@@ -470,6 +470,80 @@ const productosAires = [
     "Nombre": "VARILLA PLATA ECONOMICA",
     "PrecioTecnico": 2357.75,
     "Rubro": "REFRIGERACION"
+  }
+];
+const productosCapacitores = [
+  {
+    "Codigo": 1419,
+    "Nombre": "CAPACITOR 1 UF CUANDRADO TERMINAL EVER TECH",
+    "PrecioTecnico": 1553.63,
+    "Rubro": "REFRIGERACION"
+  },
+  {
+    "Codigo": 685,
+    "Nombre": "CAPACITOR 1,5 UF CUADRADO TERMINALES CUADRADO EVERTECH",
+    "PrecioTecnico": 1550,
+    "Rubro": "ELECTRICIDAD"
+  },
+  {
+    "Codigo": 125,
+    "Nombre": "CAPACITOR 2 UF CUADRADO TERMINALES",
+    "PrecioTecnico": 1560.86,
+    "Rubro": "ELECTRICIDAD"
+  },
+  {
+    "Codigo": 689,
+    "Nombre": "CAPACITOR 2,5 UF CON TERMINALES CUADRADO",
+    "PrecioTecnico": 1705,
+    "Rubro": "REFRIGERACION"
+  },
+  {
+    "Codigo": 1344,
+    "Nombre": "CAPACITOR 20 UF REDONDO  400V EVERTECH",
+    "PrecioTecnico": 4066.9,
+    "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 1205,
+    "Nombre": "CAPACITOR 3 UF CUADRADOTERMINAL",
+    "PrecioTecnico": 1821,
+    "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 1346,
+    "Nombre": "CAPACITOR 30 UF REDONDO 400V EVERTECH",
+    "PrecioTecnico": 5419.64,
+    "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 1347,
+    "Nombre": "CAPACITOR 35 UF REDONDO 400V EVERTECH",
+    "PrecioTecnico": 5961.6,
+    "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 1296,
+    "Nombre": "CAPACITOR 4 UF CUADRADO CABLE",
+    "PrecioTecnico": 3179.52,
+    "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 1348,
+    "Nombre": "CAPACITOR 40 UF REDONDO 400V EVERTECH",
+    "PrecioTecnico": 6481.89,
+    "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 4268,
+    "Nombre": "CAPACITOR 45 UF REDONDO 400V",
+    "PrecioTecnico": 7023.85,
+    "Rubro": "OTROS"
+  },
+  {
+    "Codigo": 1339,
+    "Nombre": "CAPACITOR 8 UF REDONDO 400V EVERTECH",
+    "PrecioTecnico": 3232.72,
+    "Rubro": "OTROS"
   }
 ];
 const productosHeladeras = [
@@ -662,43 +736,43 @@ const productosHeladeras = [
   {
     "Codigo": 627,
     "Nombre": "FORZADOR TANGENCIAL 18CM 25W 2000-2400RPM",
-    "PrecioTecnico": 24867.35,
+    "PrecioTecnico": 24651.09,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1694,
     "Nombre": "FORZADOR TANGENCIAL 24CM",
-    "PrecioTecnico": 26233.68,
+    "PrecioTecnico": 26005.55,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 251,
     "Nombre": "FORZADOR TIPO ELCO MOD  5-30W",
-    "PrecioTecnico": 14998.38,
+    "PrecioTecnico": 14867.94,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 250,
     "Nombre": "FORZADOR TIPO ELCO MOD 10- 40W",
-    "PrecioTecnico": 19692.24,
+    "PrecioTecnico": 20300,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1230,
     "Nombre": "FORZADOR TIPO ELCO MOD 16",
-    "PrecioTecnico": 27393.12,
+    "PrecioTecnico": 27154.91,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1599,
     "Nombre": "FORZADOR TIPO ELCO MOD 25-100W",
-    "PrecioTecnico": 32855.91,
+    "PrecioTecnico": 32570.19,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 400,
     "Nombre": "FORZADOR TIPO ELCO MOD 34-130W",
-    "PrecioTecnico": 28302.55,
+    "PrecioTecnico": 28056.42,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -716,31 +790,31 @@ const productosHeladeras = [
   {
     "Codigo": 365,
     "Nombre": "MOTOR HELADERA FAMILIAR    1/5 R 134 HUAYI",
-    "PrecioTecnico": 74586.17,
+    "PrecioTecnico": 78400.01,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 364,
     "Nombre": "MOTOR HELADERA FAMILIAR   1/4 R 134 HUAYI HYE69YK",
-    "PrecioTecnico": 78145.45,
+    "PrecioTecnico": 77000.01,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 366,
     "Nombre": "MOTOR HELADERA FAMILIAR   1/4+ R 134 HUAYI",
-    "PrecioTecnico": 85865.49,
+    "PrecioTecnico": 88392.59,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 363,
     "Nombre": "MOTOR HELADERA FAMILIAR  1/3 R 134 HUAYI",
-    "PrecioTecnico": 98862.32,
+    "PrecioTecnico": 100800,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1307,
     "Nombre": "MOTOR HELADERA FAMILIAR  1/3+ R 134 HUAYI",
-    "PrecioTecnico": 100735.3,
+    "PrecioTecnico": 103600,
     "Rubro": "OTROS"
   },
   {
@@ -1252,43 +1326,43 @@ const productosLavaSeca = [
   {
     "Codigo": 676,
     "Nombre": "ELECTROVALVULA 1 VIA 180¦ (NEGRA) CON FICHA PLANCHA",
-    "PrecioTecnico": 6876.34,
+    "PrecioTecnico": 6134.89,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1311,
     "Nombre": "ELECTROVALVULA 1 VIA 180¦ AC&C FICHA PLANCHA (CERAMICO)",
-    "PrecioTecnico": 6359.93,
+    "PrecioTecnico": 6079.46,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 675,
     "Nombre": "ELECTROVALVULA 1 VÝA 90¦ (EMICOL NEGRO) FICHA PLANCHA",
-    "PrecioTecnico": 8740.53,
+    "PrecioTecnico": 8664.52,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1257,
     "Nombre": "ELECTROVALVULA 2 VIAS 180¦ CE CON FICHA PLANCHA CONCEPT",
-    "PrecioTecnico": 16409.45,
+    "PrecioTecnico": 16266.75,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1076,
     "Nombre": "ELECTROVALVULA 2 VIAS 180¦ CERAMICA BLANCA AC&C",
-    "PrecioTecnico": 11172.85,
+    "PrecioTecnico": 10680.13,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 211,
     "Nombre": "ELECTROVALVULA 2 VIAS 180° CON PIN DREAN \"EMICOL\"",
-    "PrecioTecnico": 16409.45,
+    "PrecioTecnico": 16266.75,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 774,
     "Nombre": "ELECTROVALVULA 2 VIAS 90¦ DREAN FAMILY CE /EMICOL CON FICHA PLANCHA",
-    "PrecioTecnico": 16409.45,
+    "PrecioTecnico": 16266.75,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -1408,55 +1482,55 @@ const productosLavaSeca = [
   {
     "Codigo": 420,
     "Nombre": "PLAQUETA LAVARROPA MC DREAN CONCEPT 5.05 V1",
-    "PrecioTecnico": 30566.03,
+    "PrecioTecnico": 31220,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 438,
     "Nombre": "PLAQUETA LAVARROPA MC DREAN CONCEPT FUZZY LOGIC TECH CON VISOR MC - L14",
-    "PrecioTecnico": 31525.77,
+    "PrecioTecnico": 33600,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 428,
     "Nombre": "PLAQUETA LAVARROPA MC ELECTROLUX DIGITAL WASH MC L35",
-    "PrecioTecnico": 46637.97,
+    "PrecioTecnico": 46232.4,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 854,
     "Nombre": "PLAQUETA LAVARROPA MC ELECTROLUX FUZZI WASH L36",
-    "PrecioTecnico": 49092.65,
+    "PrecioTecnico": 48665.72,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 1560,
     "Nombre": "PLAQUETA LAVARROPA MC FASE 1 DREAN (MC-P00)",
-    "PrecioTecnico": 45248.9,
+    "PrecioTecnico": 44855.42,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 431,
     "Nombre": "PLAQUETA LAVARROPA MC FASE 2 PLUS (MC-P03)",
-    "PrecioTecnico": 45249.48,
+    "PrecioTecnico": 44855.99,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 433,
     "Nombre": "PLAQUETA LAVARROPA MC FASE 3 DREAN  (MC- P04)",
-    "PrecioTecnico": 45249.48,
+    "PrecioTecnico": 47600,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 423,
     "Nombre": "PLAQUETA LAVARROPA MC GAFFA FULL 6000/7000 (MC-L23)",
-    "PrecioTecnico": 29709.66,
+    "PrecioTecnico": 29451.3,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 434,
     "Nombre": "PLAQUETA LAVARROPA MC GAFFA MC 6500 7500 FASE 2 L25",
-    "PrecioTecnico": 34848.63,
+    "PrecioTecnico": 34545.57,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1840,9 +1914,9 @@ const productosCalefaccion = [
     "Rubro": "REFRIGERACION"
   }
 ];
-const productos = [...productosAires, ...productosHeladeras, ...productosLavaSeca, ...productosCalefaccion];
+const productos = [...productosAires, ...productosCapacitores, ...productosHeladeras, ...productosLavaSeca, ...productosCalefaccion];
 
 // Exportar para uso en otros módulos
-export { productosAires, productosHeladeras, productosLavaSeca, productosCalefaccion, productos };
+export { productosAires, productosCapacitores, productosHeladeras, productosLavaSeca, productosCalefaccion, productos };
 
 console.log('Productos cargados:', productos.length);

@@ -11,9 +11,3 @@ export default function redondearPrecio(precio) {
         return Math.ceil(precio / 100) * 100; // Redondea hacia arriba
     }
 }
-
-// Ejemplos
-console.log(redondearPrecio(2030)); // Debería mostrar 2050
-console.log(redondearPrecio(2020)); // Debería mostrar 2000
-console.log(redondearPrecio(2060)); // Debería mostrar 2050
-console.log(redondearPrecio(2078)); // Debería mostrar 2100

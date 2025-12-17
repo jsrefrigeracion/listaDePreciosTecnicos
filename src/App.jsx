@@ -12,10 +12,11 @@ function App() {
   const [numRandom, setNumRandom] = useState(0);
   const [mostrarOfertas, setMostrarOfertas] = useState(false);
   const [text, setText] = useState("Ver ofertas");
+  
   useEffect(() => {
     setNumRandom(Math.floor(Math.random() * imgOfertas.length));
   }, []);
-  console.log(numRandom);
+
   return (
     <>
       <header>
