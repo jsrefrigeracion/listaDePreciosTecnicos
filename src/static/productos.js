@@ -1,5 +1,5 @@
 // Archivo generado automáticamente
-// Fecha de generación: 17/12/2025, 05:03:54
+// Fecha de generación: 18/12/2025, 04:04:52
 // Incluye: Aires acondicionados,  Heladeras y Lavadoras y Secadoras.
 
 const productosAires = [
@@ -24,43 +24,43 @@ const productosAires = [
   {
     "Codigo": 28,
     "Nombre": "AISLANTE GOMA 1/2",
-    "PrecioTecnico": 1760,
+    "PrecioTecnico": 1350,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 29,
     "Nombre": "AISLANTE GOMA 1/4",
-    "PrecioTecnico": 1005.98,
+    "PrecioTecnico": 848.8,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 30,
     "Nombre": "AISLANTE GOMA 3/8",
-    "PrecioTecnico": 1520,
+    "PrecioTecnico": 1282.5,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 31,
     "Nombre": "AISLANTE GOMA 5/8",
-    "PrecioTecnico": 2160,
+    "PrecioTecnico": 1820,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 159,
     "Nombre": "AISLANTE GOMA 7/8",
-    "PrecioTecnico": 3360,
+    "PrecioTecnico": 2940,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 103,
     "Nombre": "CABLE TPR ENVAINADO 5 X 1.5 MM",
-    "PrecioTecnico": 2800,
+    "PrecioTecnico": 2450,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 104,
     "Nombre": "CABLE TPR ENVAINADO 5 X 2.5 MM",
-    "PrecioTecnico": 3640,
+    "PrecioTecnico": 4600,
     "Rubro": "ELECTRICIDAD"
   },
   {
@@ -72,43 +72,43 @@ const productosAires = [
   {
     "Codigo": 693,
     "Nombre": "CAÑO COBRE 1/2 POR METRO",
-    "PrecioTecnico": 10530,
+    "PrecioTecnico": 10140,
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
     "Codigo": 694,
     "Nombre": "CAÑO COBRE 1/4 POR METRO",
-    "PrecioTecnico": 4725,
+    "PrecioTecnico": 4550,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1046,
     "Nombre": "CAÑO COBRE 3/16 POR METRO",
-    "PrecioTecnico": 4657.5,
+    "PrecioTecnico": 4830,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 752,
     "Nombre": "CAÑO COBRE 3/4 POR METRO",
-    "PrecioTecnico": 14175,
+    "PrecioTecnico": 14700,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 123,
     "Nombre": "CAÑO COBRE 3/8 POR METRO",
-    "PrecioTecnico": 7830,
+    "PrecioTecnico": 7540,
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
     "Codigo": 124,
     "Nombre": "CAÑO COBRE 5/8 POR METRO",
-    "PrecioTecnico": 13365,
+    "PrecioTecnico": 13860,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 4308,
     "Nombre": "CAÑO COBRE 7/8 POR METRO",
-    "PrecioTecnico": 20250,
+    "PrecioTecnico": 21000,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -120,7 +120,7 @@ const productosAires = [
   {
     "Codigo": 157,
     "Nombre": "CINTA PVC SIN ADHESIVO 20 M FIJAMON",
-    "PrecioTecnico": 2138.6,
+    "PrecioTecnico": 1832.81,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -166,15 +166,33 @@ const productosAires = [
     "Rubro": "REFRIGERACION"
   },
   {
+    "Codigo": 7773,
+    "Nombre": "KIT INSTALACION 3000 A 3500 FRIGORIAS",
+    "PrecioTecnico": 74000,
+    "Rubro": "ACONDICIONADOR DE AIRE"
+  },
+  {
+    "Codigo": 7875,
+    "Nombre": "KIT INSTALACION AIRE 2250F A 2850F",
+    "PrecioTecnico": 66100,
+    "Rubro": "REFRIGERACION"
+  },
+  {
+    "Codigo": 7998,
+    "Nombre": "KIT INSTALACION AIRE 6000 FRIGORIAS",
+    "PrecioTecnico": 113900,
+    "Rubro": "ACONDICIONADOR DE AIRE"
+  },
+  {
     "Codigo": 290,
     "Nombre": "KIT TORNILLOS INSTALACION SPLIT 10MM",
-    "PrecioTecnico": 2809.33,
+    "PrecioTecnico": 1890,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 346,
     "Nombre": "KIT TORNILLOS INSTALACION SPLIT 12MM",
-    "PrecioTecnico": 3979.89,
+    "PrecioTecnico": 2565,
     "Rubro": "REFRIGERACION"
   },
   {
@@ -228,25 +246,25 @@ const productosAires = [
   {
     "Codigo": 205,
     "Nombre": "MANGUERA CRISTAL 5/8 X METRO",
-    "PrecioTecnico": 1100.25,
+    "PrecioTecnico": 1141,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1558,
     "Nombre": "MENSULA 40 CM  3000F/3500F",
-    "PrecioTecnico": 8664.69,
+    "PrecioTecnico": 9000,
     "Rubro": "ACONDICIONADOR DE AIRE"
   },
   {
     "Codigo": 342,
     "Nombre": "MENSULA 52 CM 4500 FRIG",
-    "PrecioTecnico": 12191.03,
+    "PrecioTecnico": 11250,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 343,
     "Nombre": "MENSULA 62 CM 6000- 9000FRIG",
-    "PrecioTecnico": 18062.12,
+    "PrecioTecnico": 19500,
     "Rubro": "OTROS"
   },
   {
@@ -476,73 +494,73 @@ const productosCapacitores = [
   {
     "Codigo": 1419,
     "Nombre": "CAPACITOR 1 UF CUANDRADO TERMINAL EVER TECH",
-    "PrecioTecnico": 1553.63,
+    "PrecioTecnico": 1009.88,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 685,
     "Nombre": "CAPACITOR 1,5 UF CUADRADO TERMINALES CUADRADO EVERTECH",
-    "PrecioTecnico": 1550,
+    "PrecioTecnico": 1700,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 125,
     "Nombre": "CAPACITOR 2 UF CUADRADO TERMINALES",
-    "PrecioTecnico": 1560.86,
+    "PrecioTecnico": 1268.22,
     "Rubro": "ELECTRICIDAD"
   },
   {
     "Codigo": 689,
     "Nombre": "CAPACITOR 2,5 UF CON TERMINALES CUADRADO",
-    "PrecioTecnico": 1705,
+    "PrecioTecnico": 1870,
     "Rubro": "REFRIGERACION"
   },
   {
     "Codigo": 1344,
     "Nombre": "CAPACITOR 20 UF REDONDO  400V EVERTECH",
-    "PrecioTecnico": 4066.9,
+    "PrecioTecnico": 4720.59,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1205,
     "Nombre": "CAPACITOR 3 UF CUADRADOTERMINAL",
-    "PrecioTecnico": 1821,
+    "PrecioTecnico": 1479.58,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1346,
     "Nombre": "CAPACITOR 30 UF REDONDO 400V EVERTECH",
-    "PrecioTecnico": 5419.64,
+    "PrecioTecnico": 5871.38,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1347,
     "Nombre": "CAPACITOR 35 UF REDONDO 400V EVERTECH",
-    "PrecioTecnico": 5961.6,
+    "PrecioTecnico": 6458.53,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1296,
     "Nombre": "CAPACITOR 4 UF CUADRADO CABLE",
-    "PrecioTecnico": 3179.52,
+    "PrecioTecnico": 2583.41,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1348,
     "Nombre": "CAPACITOR 40 UF REDONDO 400V EVERTECH",
-    "PrecioTecnico": 6481.89,
+    "PrecioTecnico": 7022.17,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 4268,
     "Nombre": "CAPACITOR 45 UF REDONDO 400V",
-    "PrecioTecnico": 7023.85,
+    "PrecioTecnico": 7609.32,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1339,
     "Nombre": "CAPACITOR 8 UF REDONDO 400V EVERTECH",
-    "PrecioTecnico": 3232.72,
+    "PrecioTecnico": 3053.12,
     "Rubro": "OTROS"
   }
 ];
@@ -1428,37 +1446,37 @@ const productosLavaSeca = [
   {
     "Codigo": 7800,
     "Nombre": "KIT EJE DREAN 166/EXCELLENT 189TD/AURORA 5515/PATRIOT 414",
-    "PrecioTecnico": 30694.72,
+    "PrecioTecnico": 26524.35,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7775,
     "Nombre": "KIT EJE DREAN BLUE 6.06 6.08 PATRIOT615 (C/RODAMIENTO Y RETEN)",
-    "PrecioTecnico": 37542.44,
+    "PrecioTecnico": 30392.2,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7801,
     "Nombre": "KIT EJE DREAN BLUE 8.12 Y NEXT 8.12",
-    "PrecioTecnico": 46662.61,
+    "PrecioTecnico": 40711.15,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7776,
     "Nombre": "KIT EJE DREAN CONCEPT 5.05/FUZZY TECH RODAMIENTO Y RETEN",
-    "PrecioTecnico": 70107.5,
+    "PrecioTecnico": 64127.11,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7803,
     "Nombre": "KIT EJE ELECTROLUX 500",
-    "PrecioTecnico": 58667.75,
+    "PrecioTecnico": 44835.7,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7849,
     "Nombre": "KIT EJE LAVARROPA DREAN UNICOMANND VIEJO",
-    "PrecioTecnico": 70202.81,
+    "PrecioTecnico": 64190.61,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1700,31 +1718,31 @@ const productosCalefaccion = [
   {
     "Codigo": 1100,
     "Nombre": "CAPACITOR MICROONDA ALTA TENSION 0.90 2100V",
-    "PrecioTecnico": 18586.22,
+    "PrecioTecnico": 18424.59,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1096,
     "Nombre": "CAPACITOR MICROONDA ALTA TENSION 0.95 UF 2100V",
-    "PrecioTecnico": 19274.6,
+    "PrecioTecnico": 18424.59,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1099,
     "Nombre": "CAPACITOR MICROONDA ALTA TENSION 1.00 UF 2100 V",
-    "PrecioTecnico": 19274.6,
+    "PrecioTecnico": 18424.59,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1098,
     "Nombre": "CAPACITOR MICROONDA ALTA TENSION 1.05 UF 2100 V",
-    "PrecioTecnico": 19274.6,
+    "PrecioTecnico": 18424.59,
     "Rubro": "OTROS"
   },
   {
     "Codigo": 1097,
     "Nombre": "CAPACITOR MICROONDA ALTA TENSION 1.10 UF 2100V",
-    "PrecioTecnico": 19274.6,
+    "PrecioTecnico": 18424.59,
     "Rubro": "OTROS"
   },
   {
