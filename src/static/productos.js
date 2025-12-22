@@ -1,5 +1,5 @@
 // Archivo generado automáticamente
-// Fecha de generación: 18/12/2025, 04:04:52
+// Fecha de generación: 22/12/2025, 06:21:32
 // Incluye: Aires acondicionados,  Heladeras y Lavadoras y Secadoras.
 
 const productosAires = [
@@ -1446,37 +1446,37 @@ const productosLavaSeca = [
   {
     "Codigo": 7800,
     "Nombre": "KIT EJE DREAN 166/EXCELLENT 189TD/AURORA 5515/PATRIOT 414",
-    "PrecioTecnico": 26524.35,
+    "PrecioTecnico": 30694.72,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7775,
     "Nombre": "KIT EJE DREAN BLUE 6.06 6.08 PATRIOT615 (C/RODAMIENTO Y RETEN)",
-    "PrecioTecnico": 30392.2,
+    "PrecioTecnico": 37542.44,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7801,
     "Nombre": "KIT EJE DREAN BLUE 8.12 Y NEXT 8.12",
-    "PrecioTecnico": 40711.15,
+    "PrecioTecnico": 46662.61,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7776,
     "Nombre": "KIT EJE DREAN CONCEPT 5.05/FUZZY TECH RODAMIENTO Y RETEN",
-    "PrecioTecnico": 64127.11,
+    "PrecioTecnico": 70107.5,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7803,
     "Nombre": "KIT EJE ELECTROLUX 500",
-    "PrecioTecnico": 44835.7,
+    "PrecioTecnico": 58667.75,
     "Rubro": "LAVARROPAS"
   },
   {
     "Codigo": 7849,
     "Nombre": "KIT EJE LAVARROPA DREAN UNICOMANND VIEJO",
-    "PrecioTecnico": 64190.61,
+    "PrecioTecnico": 70202.81,
     "Rubro": "LAVARROPAS"
   },
   {
@@ -1936,5 +1936,3 @@ const productos = [...productosAires, ...productosCapacitores, ...productosHelad
 
 // Exportar para uso en otros módulos
 export { productosAires, productosCapacitores, productosHeladeras, productosLavaSeca, productosCalefaccion, productos };
-
-console.log('Productos cargados:', productos.length);
