@@ -12,7 +12,6 @@ import BombaAskol from "/promos/BOMBA-ASKOL.jpeg";
 import MangueraDesagote from "/promos/promo-manguera-desagote-recta.jpeg";
 import Filtros from "/promos/promo-filtros.jpeg";
 import ControlUniversal from "/promos/promo-control-universal.jpeg";
-import Burletes from "/promos/promo-burletes.jpeg";
 import BombaEmicol from "/promos/promo-bomba-desagote-emicol.jpeg";
 import BochaGas from "/promos/promo-bocha-gas.jpeg";
 import Aceites from "/promos/promo-aceites.jpeg";
@@ -23,7 +22,6 @@ const imgOfertas = [
   ControlUniversal,
   Rotativos,
   Filtros,
-  Burletes,
   BombaEmicol,
   BochaGas,
   Aceites,
