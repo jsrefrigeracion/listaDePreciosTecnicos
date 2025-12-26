@@ -1,6 +1,3 @@
-import KitLava1 from "/promos/KIT-EJE-LAVA-1.jpeg";
-import KitLava2 from "/promos/KIT-EJE-LAVA-2.jpeg";
-import KitLava3 from "/promos/KIT-EJE-LAVA-3.jpeg";
 import BombaVacio from "/promos/oferta-bomba-vacio.jpeg";
 import Manifold from "/promos/oferta-manifold.jpeg";
 import Pestañadora from "/promos/oferta-pestañadora.jpeg";
@@ -25,9 +22,6 @@ const imgOfertas = [
   BombaEmicol,
   BochaGas,
   Aceites,
-  KitLava1,
-  KitLava2,
-  KitLava3,
   BombaVacio,
   Manifold,
   Pestañadora,
