@@ -25,6 +25,15 @@ main {
   background-color: white;
 }
 
+select {
+  cursor: pointer;
+  transition: box-shadow 0.3s ease;
+}
+
+select:hover {
+  box-shadow: 0 0 5px var(--color-primary);
+}
+
 @media (width >= 768px) {
   .button-container {
     width: 800px;
